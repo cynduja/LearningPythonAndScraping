@@ -1,0 +1,99 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Rep. Ted Lieu",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568758808978022400/2pH8o48y_normal.jpeg",
+  "listed_count": 37,
+  "notifications": false,
+  "id": 3044993235,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568758808978022400/2pH8o48y_normal.jpeg",
+  "location": "Washington D.C. & Los Angeles",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "3044993235",
+  "favourites_count": 0,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 1235,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "https://lieu.house.gov/",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/gVv4Qfdiiu",
+          "display_url": "lieu.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Honored to represent CA33 in Congress. Serving on Budget, Oversight and Gov. Reform Committees. Democratic Freshman Class President. Lt Col. Air Force Reserves.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "https://t.co/gVv4Qfdiiu",
+  "created_at": "Thu Feb 19 20:08:54 +0000 2015",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044993235/1426707185",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "30313925",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "id": 30313925,
+          "indices": [
+            63,
+            74
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "Very happy about the Solar Ready Veterans program announced by @WhiteHouse - would create jobs for veterans AND provide clean energy!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584022934936780800,
+    "id_str": "584022934936780800",
+    "created_at": "Fri Apr 03 16:01:32 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 1,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepTedLieu",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 116,
+  "followers_count": 740
+}

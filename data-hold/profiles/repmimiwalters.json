@@ -1,0 +1,135 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779665432/53eec9a6ff66dad5d85aba3e591c82e5.jpeg",
+  "name": "Mimi Walters",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568467816089546752/n3BHuNVi_normal.jpeg",
+  "listed_count": 207,
+  "notifications": false,
+  "id": 47798449,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568467816089546752/n3BHuNVi_normal.jpeg",
+  "location": "Irvine, CA",
+  "time_zone": "Pacific Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779665432/53eec9a6ff66dad5d85aba3e591c82e5.jpeg",
+  "id_str": "47798449",
+  "favourites_count": 269,
+  "lang": "en",
+  "profile_text_color": "0084B4",
+  "utc_offset": -25200,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "09A8F2",
+  "profile_background_color": "2131E8",
+  "verified": true,
+  "geo_enabled": true,
+  "profile_sidebar_border_color": "BDDCAD",
+  "is_translation_enabled": false,
+  "friends_count": 917,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://walters.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/WOZuxf3k21",
+          "display_url": "walters.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Wife, mother of 4 awesome children, and in my spare time - Congresswoman to #CA45.",
+  "protected": false,
+  "profile_background_tile": true,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/WOZuxf3k21",
+  "created_at": "Wed Jun 17 00:59:59 +0000 2009",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/47798449/1425048659",
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "contributors": null,
+    "text": "Wishing you and your family a happy and blessed #Easter! http://t.co/aqrH79cJY5",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "584791176194215936",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "584791170405924864",
+          "expanded_url": "http://twitter.com/RepMimiWalters/status/584791176194215936/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 177
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 313
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 535
+            }
+          },
+          "indices": [
+            57,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/CB2YeJvUgAAdJQ1.jpg",
+          "type": "photo",
+          "id": 584791170405924864,
+          "url": "http://t.co/aqrH79cJY5",
+          "media_url_https": "https://pbs.twimg.com/media/CB2YeJvUgAAdJQ1.jpg",
+          "display_url": "pic.twitter.com/aqrH79cJY5"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            55
+          ],
+          "text": "Easter"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 584791176194215936,
+    "created_at": "Sun Apr 05 18:54:15 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepMimiWalters",
+  "default_profile": false,
+  "profile_link_color": "5565B5",
+  "statuses_count": 1593,
+  "followers_count": 3289
+}

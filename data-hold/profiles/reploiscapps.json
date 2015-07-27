@@ -1,0 +1,87 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Lois Capps",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1827224626/Facebook_profile_pic_normal.jpg",
+  "listed_count": 556,
+  "notifications": false,
+  "id": 292990703,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1827224626/Facebook_profile_pic_normal.jpg",
+  "location": "California ",
+  "time_zone": "Quito",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "292990703",
+  "favourites_count": 44,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -18000,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 2057,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://capps.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/eVGEo0vfvh",
+          "display_url": "capps.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "U.S. Representative from California's 24th Congressional District",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/eVGEo0vfvh",
+  "created_at": "Wed May 04 15:39:31 +0000 2011",
+  "profile_location": null,
+  "status": {
+    "geo": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "From my family to yours, Happy Easter!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584795180005339137,
+    "id_str": "584795180005339137",
+    "created_at": "Sun Apr 05 19:10:10 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 9,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepLoisCapps",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 1992,
+  "followers_count": 7727
+}

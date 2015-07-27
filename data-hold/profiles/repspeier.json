@@ -1,0 +1,170 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Jackie Speier",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "listed_count": 973,
+  "notifications": false,
+  "id": 24913074,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "location": "",
+  "time_zone": "Quito",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "24913074",
+  "favourites_count": 4,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -18000,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": true,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 1113,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://speier.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/riEFCSOgog",
+          "display_url": "speier.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Represents California's 14th Congressional District. House Armed Services Committee, House Permanent Select Committee on Intelligence.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/riEFCSOgog",
+  "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1427746803",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @digiphile: \"\u2026the originators of this [identity] theft are striking at the heart of our representative democracy\"-@RepSpeier http://t.co\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 8,
+    "coordinates": null,
+    "id_str": "583259584212656129",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "contributors": null,
+      "text": "\"\u2026the originators of this [identity] theft are striking at the heart of our representative democracy\"-@RepSpeier http://t.co/W5uCEoQYjK",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 8,
+      "coordinates": null,
+      "id_str": "583070162502467585",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "24913074",
+            "name": "Jackie Speier",
+            "screen_name": "RepSpeier",
+            "id": 24913074,
+            "indices": [
+              102,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "expanded_url": "http://www.politico.com/story/2015/03/net-neutrality-email-american-commitment-116553.html",
+            "indices": [
+              113,
+              135
+            ],
+            "url": "http://t.co/W5uCEoQYjK",
+            "display_url": "politico.com/story/2015/03/\u2026"
+          }
+        ],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 583070162502467585,
+      "created_at": "Wed Apr 01 00:55:34 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1175221",
+          "name": "Alex Howard",
+          "screen_name": "digiphile",
+          "id": 1175221,
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "id_str": "24913074",
+          "name": "Jackie Speier",
+          "screen_name": "RepSpeier",
+          "id": 24913074,
+          "indices": [
+            117,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://www.politico.com/story/2015/03/net-neutrality-email-american-commitment-116553.html",
+          "indices": [
+            139,
+            140
+          ],
+          "url": "http://t.co/W5uCEoQYjK",
+          "display_url": "politico.com/story/2015/03/\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583259584212656129,
+    "created_at": "Wed Apr 01 13:28:15 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepSpeier",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 2268,
+  "followers_count": 14374
+}

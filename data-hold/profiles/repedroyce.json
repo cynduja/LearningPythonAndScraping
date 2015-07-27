@@ -1,0 +1,127 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467045683766116352/AeQkWfXL.jpeg",
+  "name": "Ed Royce",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238558926/EdwardRoyce-colorheadshot1_normal.jpg",
+  "listed_count": 660,
+  "notifications": false,
+  "id": 246769138,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1238558926/EdwardRoyce-colorheadshot1_normal.jpg",
+  "location": "Fullerton, CA & Washington, DC",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467045683766116352/AeQkWfXL.jpeg",
+  "id_str": "246769138",
+  "favourites_count": 1,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "FFFFFF",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 455,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://www.royce.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/IrOQ79yEht",
+          "display_url": "royce.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "U.S. Representative Ed Royce proudly serves California's 39th Congressional District and is Chairman of the @HouseForeign Affairs Committee.",
+  "protected": false,
+  "profile_background_tile": true,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/IrOQ79yEht",
+  "created_at": "Thu Feb 03 12:40:15 +0000 2011",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/246769138/1410896724",
+  "status": {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "contributors": null,
+    "text": "He is risen! Happy Easter to you and your family! http://t.co/rGU9tUCLj3",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 6,
+    "coordinates": null,
+    "id_str": "584740049931079682",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "584740043169865728",
+          "expanded_url": "http://twitter.com/RepEdRoyce/status/584740049931079682/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 177
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 313
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 960,
+              "h": 502
+            }
+          },
+          "indices": [
+            50,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/CB1p-J8WIAAcaDp.jpg",
+          "type": "photo",
+          "id": 584740043169865728,
+          "url": "http://t.co/rGU9tUCLj3",
+          "media_url_https": "https://pbs.twimg.com/media/CB1p-J8WIAAcaDp.jpg",
+          "display_url": "pic.twitter.com/rGU9tUCLj3"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 584740049931079682,
+    "created_at": "Sun Apr 05 15:31:06 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepEdRoyce",
+  "default_profile": false,
+  "profile_link_color": "F0770C",
+  "statuses_count": 1863,
+  "followers_count": 10555
+}

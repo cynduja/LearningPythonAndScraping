@@ -1,0 +1,99 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Rep. Steve Knight",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/560528293292548096/zPZwgtN3_normal.jpeg",
+  "listed_count": 16,
+  "notifications": false,
+  "id": 2974648323,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/560528293292548096/zPZwgtN3_normal.jpeg",
+  "location": "",
+  "time_zone": "Pacific Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "2974648323",
+  "favourites_count": 5,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -25200,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": true,
+  "friends_count": 158,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/JnqzI2oWdw",
+          "display_url": "knight.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Proudly representing California's 25th Congressional District.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "https://t.co/JnqzI2oWdw",
+  "created_at": "Mon Jan 12 13:24:19 +0000 2015",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2974648323/1423511957",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I sat down with Fox News to talk about my goals in Congress. Check it out here!\nhttp://t.co/zrFSzymZbz",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "583269654413578240",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://video.foxnews.com/v/4145851096001/",
+          "indices": [
+            80,
+            102
+          ],
+          "url": "http://t.co/zrFSzymZbz",
+          "display_url": "video.foxnews.com/v/414585109600\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583269654413578240,
+    "created_at": "Wed Apr 01 14:08:16 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "SteveKnight25",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 58,
+  "followers_count": 209
+}

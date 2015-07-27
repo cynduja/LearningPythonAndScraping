@@ -1,0 +1,118 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Pete Aguilar",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563359439898415104/7m7GoHmq_normal.jpeg",
+  "listed_count": 26,
+  "notifications": false,
+  "id": 3018670151,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563359439898415104/7m7GoHmq_normal.jpeg",
+  "location": "San Bernardino, CA",
+  "time_zone": null,
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "3018670151",
+  "favourites_count": 0,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": null,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 106,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://aguilar.house.gov/",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/o4deRoUnuK",
+          "display_url": "aguilar.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Pete Aguilar represents CA\u2019s 31st Congressional District. A former Mayor, Rep. Aguilar is committed to strengthening the Inland Empire\u2019s middle class.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/o4deRoUnuK",
+  "created_at": "Wed Feb 04 21:01:23 +0000 2015",
+  "profile_location": null,
+  "status": {
+    "geo": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "336776567",
+          "name": "Matt Guilhem",
+          "screen_name": "MattGuilhem",
+          "id": 336776567,
+          "indices": [
+            25,
+            37
+          ]
+        },
+        {
+          "id_str": "3018670151",
+          "name": "Pete Aguilar",
+          "screen_name": "RepPeteAguilar",
+          "id": 3018670151,
+          "indices": [
+            49,
+            64
+          ]
+        },
+        {
+          "id_str": "52219623",
+          "name": "KVCR Public Media",
+          "screen_name": "kvcr_tvfm",
+          "id": 52219623,
+          "indices": [
+            90,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "Thanks for having me! MT @MattGuilhem: Thanks to @RepPeteAguilar for stopping by the 91.9 @kvcr_tvfm studio.Good conversation &amp; perspective.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 583640842365227008,
+    "id_str": "583640842365227008",
+    "created_at": "Thu Apr 02 14:43:14 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 0,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepPeteAguilar",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 69,
+  "followers_count": 312
+}
