@@ -1,4 +1,0 @@
-# Bring in the library
-import requests
-# make the GET call
-resp = requests.get("http://www.example.com")
