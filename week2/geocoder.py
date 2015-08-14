@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 import json
 import requests
+import sys
 
-response = requests.get("http://www.compjour.org/files/code/json-examples/maps.googleapis-geocode-mcclatchy.json")
-r = response.text
-print(response.text)
-data = json.loads(r)
-print ("A.", data['checkins'])
-print ("B.", data['likes'])
-print ("C.", data['location']['longitude'])
-print ("D.", data['category_list'][1]['name'])
+data_url = "http://www.compjour.org/files/code/json-examples/maps.googleapis-geocode-mcclatchy.json"
+response = requests.get(data_url)
+text = response.text
+data = json.loads(text)
+#print(data)
+
+print('A.', data['results'][0]['formatted_address'])
+print(sys.version)
+print('B.', data['results'][0] ['geometry']['location_type'])
+print('C.', data['status'])
+print('D.', data['results'][0] ['geometry']['location']['lat'])
+print('E.', data['results'][0] ['geometry']['viewport']['southwest'] ['lng'])
+print('F.', ','.join(a['long_name'] for a in data['results'][0]['address_components'][0:2]))
+>>>>>>> bfca22f2ceddc1a8a2ab56d484a74f77fcd8bb46

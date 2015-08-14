@@ -21,4 +21,3 @@ for member in ca_tweeters:
     print("Number of original tweets with '{}' in last 200 tweets: {}".format(
                                             wrd, len(wrd_tweets)))
 
-        

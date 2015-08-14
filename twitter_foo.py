@@ -1,3 +1,4 @@
+
 import json
 import csv
 import os.path
@@ -15,25 +16,29 @@ def get_ca_tweeters():
     members = []
     for row in csvdata:
         if row['in_office'] == '1' and row['state'] == 'CA' and row['twitter_id'] != '':
-        	members.append(row)
+            members.append(row)
+
     return members
 
 
 def get_profile(screen_name):
     pfname = os.path.join(PROFILES_DIR, screen_name + '.json')
     profile = json.loads(open(pfname, encoding = 'utf-8').read())
+
     return profile
 
 
 def get_tweets(screen_name):
     tfname = os.path.join(TWEETS_DIR, screen_name + '.json')
     tweets = json.loads(open(tfname, encoding = 'utf-8').read())
+
     return tweets
 
 
 def get_original_tweets(screen_name):
     tweets = get_tweets(screen_name)
     original_tweets = [t for t in tweets if t.get('retweeted_status') == None]
+
     return original_tweets
 
 
@@ -52,3 +57,4 @@ def get_tweets_with_word(screen_name, some_word):
 
     return xlist
         
+

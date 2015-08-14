@@ -8,7 +8,6 @@ DATA_DIR = 'data-hold'
 PROFILES_DIR = os.path.join(DATA_DIR, 'profiles')
 TWEETS_DIR = os.path.join(DATA_DIR, 'tweets')
 screen_name = 'repmikehonda'
-
 # check out his Twitter profile
 pfname = os.path.join(PROFILES_DIR, screen_name + '.json')
 profile = json.loads(open(pfname).read())
@@ -27,7 +26,6 @@ print("* Overall Tweet rate of {} tweets/day".format(daily_tweet_rate) )
 
 # Now we open his corresponding tweets JSON file, which contains his
 # last 200 tweets
-
 tfname = os.path.join(TWEETS_DIR, screen_name + '.json')
 tweets = json.loads(open(tfname).read())
 
@@ -39,3 +37,4 @@ tweets_sorted_by_rts = sorted(original_tweets, key = itemgetter('retweet_count')
 rt = tweets_sorted_by_rts[0]
 print("* Most retweeted tweet has {} RTs and said: {}".format(rt['retweet_count'], rt['text']))
         
+
