@@ -1,0 +1,125 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Rep. Mike Honda",
+  "profile_use_background_image": false,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/433620930565128192/w2S6Z42z_normal.jpeg",
+  "listed_count": 1223,
+  "notifications": false,
+  "id": 16583468,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/433620930565128192/w2S6Z42z_normal.jpeg",
+  "location": "San Jose, CA",
+  "time_zone": "Pacific Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "16583468",
+  "favourites_count": 292,
+  "lang": "en",
+  "profile_text_color": "000000",
+  "utc_offset": -25200,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "000000",
+  "profile_background_color": "000000",
+  "verified": true,
+  "geo_enabled": true,
+  "profile_sidebar_border_color": "000000",
+  "is_translation_enabled": false,
+  "friends_count": 827,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://honda.house.gov/",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/YR4AVQPAhN",
+          "display_url": "honda.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Congressman Mike Honda for CA17-Silicon Valley. Lover of languages and cultures. Native Californian. South Bay is home. #WeAreCA17",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/YR4AVQPAhN",
+  "created_at": "Fri Oct 03 20:18:31 +0000 2008",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16583468/1423803544",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "@BarackObama's #TechHire initiative trains Americans for high-paying jobs in #SiliconValley &amp; across the country http://t.co/rmtjauY5FD",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "583750753384325120",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "in_reply_to_user_id_str": "813286",
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "813286",
+          "name": "Barack Obama",
+          "screen_name": "BarackObama",
+          "id": 813286,
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://www.techrepublic.com/article/new-techhire-initiative-from-the-white-house-aims-to-get-more-americans-plugged-into-tech-jobs/",
+          "indices": [
+            117,
+            139
+          ],
+          "url": "http://t.co/rmtjauY5FD",
+          "display_url": "techrepublic.com/article/new-te\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            24
+          ],
+          "text": "TechHire"
+        },
+        {
+          "indices": [
+            77,
+            91
+          ],
+          "text": "SiliconValley"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": 813286,
+    "in_reply_to_screen_name": "BarackObama",
+    "id": 583750753384325120,
+    "created_at": "Thu Apr 02 21:59:59 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepMikeHonda",
+  "default_profile": false,
+  "profile_link_color": "57A4CD",
+  "statuses_count": 1631,
+  "followers_count": 16985
+}

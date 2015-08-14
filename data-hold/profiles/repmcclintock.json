@@ -1,0 +1,106 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45931037/gr_ph_cap30.jpg",
+  "name": "Tom McClintock",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+  "listed_count": 840,
+  "notifications": false,
+  "id": 50152441,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/416902006/McClintockphoto1_normal.jpg",
+  "location": "Washington, DC",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45931037/gr_ph_cap30.jpg",
+  "id_str": "50152441",
+  "favourites_count": 0,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "093552",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 0,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://mcclintock.house.gov/",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/M52pLVZcTJ",
+          "display_url": "mcclintock.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "United States Representative, 4th District of California",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/M52pLVZcTJ",
+  "created_at": "Wed Jun 24 00:21:07 +0000 2009",
+  "profile_location": null,
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Save Our Water Act #CAdrought would suspend water releases by agencies to adjust river water temperatures for fish http://t.co/jFx9YF1cv4",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 10,
+    "coordinates": null,
+    "id_str": "581468979744620544",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1CU2kNM",
+          "indices": [
+            115,
+            137
+          ],
+          "url": "http://t.co/jFx9YF1cv4",
+          "display_url": "1.usa.gov/1CU2kNM"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            19,
+            29
+          ],
+          "text": "CAdrought"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581468979744620544,
+    "created_at": "Fri Mar 27 14:53:02 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepMcClintock",
+  "default_profile": false,
+  "profile_link_color": "3078B8",
+  "statuses_count": 230,
+  "followers_count": 8373
+}

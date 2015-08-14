@@ -1,0 +1,88 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801071613/b10357c7c31869a0dc98e04a6949ba3e.jpeg",
+  "name": "Ken Calvert",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/828781833/KC-STOCK_normal.jpg",
+  "listed_count": 550,
+  "notifications": false,
+  "id": 22545491,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/828781833/KC-STOCK_normal.jpg",
+  "location": "Corona, CA ",
+  "time_zone": "Quito",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801071613/b10357c7c31869a0dc98e04a6949ba3e.jpeg",
+  "id_str": "22545491",
+  "favourites_count": 4,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -18000,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_background_color": "022330",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 227,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://calvert.house.gov/",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/XcjXyjAwXE",
+          "display_url": "calvert.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/XcjXyjAwXE",
+  "created_at": "Mon Mar 02 22:30:20 +0000 2009",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22545491/1398363802",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "I hope you and your family have a happy and joyous Easter!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584746059471040512,
+    "id_str": "584746059471040512",
+    "created_at": "Sun Apr 05 15:54:59 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 1,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "KenCalvert",
+  "default_profile": false,
+  "profile_link_color": "0084B4",
+  "statuses_count": 2609,
+  "followers_count": 5193
+}

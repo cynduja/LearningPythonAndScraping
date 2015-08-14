@@ -1,0 +1,148 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "name": "Congressman Sam Farr",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523225601683910656/WFdKYP8X_normal.jpeg",
+  "listed_count": 614,
+  "notifications": false,
+  "id": 158398519,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523225601683910656/WFdKYP8X_normal.jpeg",
+  "location": "",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "id_str": "158398519",
+  "favourites_count": 710,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "1D5076",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 843,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://www.farr.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/peic5yFHXJ",
+          "display_url": "farr.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Congressman Sam Farr represents California's Central Coast and is the Ranking Member on the House Agriculture Appropriations Subcommittee.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/peic5yFHXJ",
+  "created_at": "Tue Jun 22 15:30:19 +0000 2010",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/158398519/1367341773",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepJohnDelaney: .@HouseDemocrats want bigger paychecks &amp; better infrastructure for all hardworking families. Let's put Americans back t\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 52,
+    "coordinates": null,
+    "id_str": "584019511193526272",
+    "lang": "en",
+    "retweeted_status": {
+      "geo": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats",
+            "id": 43963249,
+            "indices": [
+              1,
+              16
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "contributors": null,
+      "text": ".@HouseDemocrats want bigger paychecks &amp; better infrastructure for all hardworking families. Let's put Americans back to work!",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 52,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "id": 583982347382554624,
+      "id_str": "583982347382554624",
+      "created_at": "Fri Apr 03 13:20:16 +0000 2015",
+      "truncated": false,
+      "lang": "en",
+      "favorited": false,
+      "favorite_count": 46,
+      "in_reply_to_status_id": null,
+      "place": null,
+      "in_reply_to_user_id_str": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "937723303",
+          "name": "Rep. John Delaney",
+          "screen_name": "RepJohnDelaney",
+          "id": 937723303,
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id_str": "43963249",
+          "name": "House Democrats",
+          "screen_name": "HouseDemocrats",
+          "id": 43963249,
+          "indices": [
+            21,
+            36
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 584019511193526272,
+    "created_at": "Fri Apr 03 15:47:56 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepSamFarr",
+  "default_profile": false,
+  "profile_link_color": "1D5076",
+  "statuses_count": 1596,
+  "followers_count": 8744
+}

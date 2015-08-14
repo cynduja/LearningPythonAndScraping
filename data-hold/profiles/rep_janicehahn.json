@@ -1,0 +1,87 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+  "name": "Janice Hahn",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/476775438644035586/MfJQ8cOG_normal.jpeg",
+  "listed_count": 425,
+  "notifications": false,
+  "id": 339852137,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/476775438644035586/MfJQ8cOG_normal.jpeg",
+  "location": "San Pedro, CA",
+  "time_zone": "Pacific Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+  "id_str": "339852137",
+  "favourites_count": 173,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -25200,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "profile_background_color": "9AE4E8",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "BDDCAD",
+  "is_translation_enabled": false,
+  "friends_count": 950,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://hahn.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/tYJhVgj0nj",
+          "display_url": "hahn.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Proudly representing California's 44th District in Congress",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/tYJhVgj0nj",
+  "created_at": "Thu Jul 21 19:22:22 +0000 2011",
+  "profile_location": null,
+  "status": {
+    "geo": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "Wishing you and your family a happy Passover and a wonderful Good Friday!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584174707852849152,
+    "id_str": "584174707852849152",
+    "created_at": "Sat Apr 04 02:04:38 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 5,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "Rep_JaniceHahn",
+  "default_profile": false,
+  "profile_link_color": "0084B4",
+  "statuses_count": 2448,
+  "followers_count": 6548
+}

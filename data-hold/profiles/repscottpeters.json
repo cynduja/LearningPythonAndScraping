@@ -1,0 +1,88 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026053789/b4498dddb7e8c0f57999bdb96e2a1de4.jpeg",
+  "name": "Rep. Scott Peters",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523184969884000256/4P6FfrSc_normal.jpeg",
+  "listed_count": 341,
+  "notifications": false,
+  "id": 1135486501,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523184969884000256/4P6FfrSc_normal.jpeg",
+  "location": "San Diego, Poway, Coronado",
+  "time_zone": "Arizona",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026053789/b4498dddb7e8c0f57999bdb96e2a1de4.jpeg",
+  "id_str": "1135486501",
+  "favourites_count": 93,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -25200,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 743,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://scottpeters.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/IHSIVXNojp",
+          "display_url": "scottpeters.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Serving #CA52 / Armed Services & Judiciary Committees / @HouseNewDems / Innovation / Science / Environment & Climate / Military / Vets / Border / Urbanism",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/IHSIVXNojp",
+  "created_at": "Wed Jan 30 23:28:14 +0000 2013",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135486501/1383153210",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "Alleluia!  Happy Easter!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584772424941441025,
+    "id_str": "584772424941441025",
+    "created_at": "Sun Apr 05 17:39:45 +0000 2015",
+    "truncated": false,
+    "lang": "nl",
+    "favorited": false,
+    "favorite_count": 2,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepScottPeters",
+  "default_profile": false,
+  "profile_link_color": "0084B4",
+  "statuses_count": 3222,
+  "followers_count": 4658
+}

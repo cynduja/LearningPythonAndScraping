@@ -1,0 +1,124 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199025462/Twitter.png",
+  "name": "Congressmember Bass",
+  "profile_use_background_image": false,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/477590988462911489/SME25fv5_normal.jpeg",
+  "listed_count": 948,
+  "notifications": false,
+  "id": 239949176,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/477590988462911489/SME25fv5_normal.jpeg",
+  "location": "Los Angeles & Washington",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199025462/Twitter.png",
+  "id_str": "239949176",
+  "favourites_count": 100,
+  "lang": "en",
+  "profile_text_color": "634047",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "E3E2DE",
+  "profile_background_color": "196A88",
+  "verified": true,
+  "geo_enabled": true,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 15111,
+  "entities": {
+    "description": {
+      "urls": [
+        {
+          "expanded_url": "http://fb.me/RepKarenBass",
+          "indices": [
+            97,
+            119
+          ],
+          "url": "http://t.co/GIhGdxEhqh",
+          "display_url": "fb.me/RepKarenBass"
+        }
+      ]
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://karenbass.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/1QNH7tmurQ",
+          "display_url": "karenbass.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Representing California's 37th District, which includes Los Angeles, Hollywood, and Culver City. http://t.co/GIhGdxEhqh",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/1QNH7tmurQ",
+  "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1382021856",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I join world leaders in condemning the #Garissa attacks. My thoughts are with all affected #PrayForKenya http://t.co/rdrZeHACxN",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "584083307115208704",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1yKmq7G",
+          "indices": [
+            105,
+            127
+          ],
+          "url": "http://t.co/rdrZeHACxN",
+          "display_url": "1.usa.gov/1yKmq7G"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            39,
+            47
+          ],
+          "text": "Garissa"
+        },
+        {
+          "indices": [
+            91,
+            104
+          ],
+          "text": "PrayForKenya"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 584083307115208704,
+    "created_at": "Fri Apr 03 20:01:26 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepKarenBass",
+  "default_profile": false,
+  "profile_link_color": "088253",
+  "statuses_count": 2055,
+  "followers_count": 21755
+}

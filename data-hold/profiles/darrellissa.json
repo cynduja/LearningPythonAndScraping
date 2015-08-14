@@ -1,0 +1,149 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "name": "Darrell Issa",
+  "profile_use_background_image": false,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "listed_count": 4819,
+  "notifications": false,
+  "id": 22509548,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "location": "Vista, CA & Washington, DC",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "id_str": "22509548",
+  "favourites_count": 869,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "profile_background_color": "EBEBEB",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 35700,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://issa.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/L3qF1BVDjB",
+          "display_url": "issa.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "I work for CA-49 and I Chair the Subcommittee on Courts, Intellectual Property, and the Internet.  I greatly enjoy an #OPEN, accessible, & uncensored internet.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": true,
+  "url": "http://t.co/L3qF1BVDjB",
+  "created_at": "Mon Mar 02 17:39:00 +0000 2009",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22509548/1397664686",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Phyllis and Deloris wanted to wish you all a Happy #Easter weekend. #FridayPuppy #GoodFriday http://t.co/NtzFYL9f69",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 37,
+    "coordinates": null,
+    "id_str": "584056435128061952",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 46,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "584056434075246593",
+          "expanded_url": "http://twitter.com/DarrellIssa/status/584056435128061952/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/CBr8O3nWIAEXgI_.jpg",
+          "type": "photo",
+          "id": 584056434075246593,
+          "url": "http://t.co/NtzFYL9f69",
+          "media_url_https": "https://pbs.twimg.com/media/CBr8O3nWIAEXgI_.jpg",
+          "display_url": "pic.twitter.com/NtzFYL9f69"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            51,
+            58
+          ],
+          "text": "Easter"
+        },
+        {
+          "indices": [
+            68,
+            80
+          ],
+          "text": "FridayPuppy"
+        },
+        {
+          "indices": [
+            81,
+            92
+          ],
+          "text": "GoodFriday"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 584056435128061952,
+    "created_at": "Fri Apr 03 18:14:40 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "DarrellIssa",
+  "default_profile": false,
+  "profile_link_color": "5A656B",
+  "statuses_count": 19416,
+  "followers_count": 188484
+}

@@ -1,0 +1,96 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Julia Brownley",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3353472554/416d353f6b91b56994fadc0019f4cd9a_normal.jpeg",
+  "listed_count": 244,
+  "notifications": false,
+  "id": 1243902714,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3353472554/416d353f6b91b56994fadc0019f4cd9a_normal.jpeg",
+  "location": "",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "1243902714",
+  "favourites_count": 0,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 517,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://juliabrownley.house.gov/",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/HMlxAvA8LD",
+          "display_url": "juliabrownley.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "U.S. Representative from California's 26th District.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/HMlxAvA8LD",
+  "created_at": "Tue Mar 05 14:51:28 +0000 2013",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243902714/1368827421",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            113,
+            121
+          ],
+          "text": "UMatter"
+        }
+      ]
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "By increasing student loan interest rates and cutting Pell grants, the GOP budget makes college less affordable. #UMatter",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 583698039459553281,
+    "id_str": "583698039459553281",
+    "created_at": "Thu Apr 02 18:30:31 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 0,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "JuliaBrownley26",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 825,
+  "followers_count": 2170
+}

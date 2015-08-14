@@ -1,0 +1,5067 @@
+[
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I sat down with Fox News to talk about my goals in Congress. Check it out here!\nhttp://t.co/zrFSzymZbz",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "583269654413578240",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://video.foxnews.com/v/4145851096001/",
+          "indices": [
+            80,
+            102
+          ],
+          "url": "http://t.co/zrFSzymZbz",
+          "display_url": "video.foxnews.com/v/414585109600\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583269654413578240,
+    "created_at": "Wed Apr 01 14:08:16 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Had the honor of meeting w our brave CA servicemembers at Mihail Kogalniceanu Air Base. Thank you for your service! http://t.co/KvhIuL3JNG",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "583007757508481024",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "583007756312932352",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/583007757508481024/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 162
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 285
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 487
+            }
+          },
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CBdCdyhUcAAgy0r.jpg",
+          "type": "photo",
+          "id": 583007756312932352,
+          "url": "http://t.co/KvhIuL3JNG",
+          "media_url_https": "https://pbs.twimg.com/media/CBdCdyhUcAAgy0r.jpg",
+          "display_url": "pic.twitter.com/KvhIuL3JNG"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583007757508481024,
+    "created_at": "Tue Mar 31 20:47:35 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "583007756312932352",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/583007757508481024/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 162
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 285
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 487
+            }
+          },
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CBdCdyhUcAAgy0r.jpg",
+          "type": "photo",
+          "id": 583007756312932352,
+          "url": "http://t.co/KvhIuL3JNG",
+          "media_url_https": "https://pbs.twimg.com/media/CBdCdyhUcAAgy0r.jpg",
+          "display_url": "pic.twitter.com/KvhIuL3JNG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Calling all high school artists!  I'm accepting artwork for the Congressional Art Competition.\nFor details visit https://t.co/bwqWnMDC4L",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "581505063178375169",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/services/art-competition",
+          "indices": [
+            113,
+            136
+          ],
+          "url": "https://t.co/bwqWnMDC4L",
+          "display_url": "knight.house.gov/services/art-c\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581505063178375169,
+    "created_at": "Fri Mar 27 17:16:25 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Here I am speaking on the House Floor this morning about #CaAeroWeek2015. @aiaa @CAAerospace \nhttps://t.co/lxvNPZ7ex2",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "581210494524137472",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "44369634",
+          "name": "AIAA",
+          "screen_name": "aiaa",
+          "id": 44369634,
+          "indices": [
+            74,
+            79
+          ]
+        },
+        {
+          "id_str": "2189278128",
+          "name": "California Aerospace",
+          "screen_name": "CAAerospace",
+          "id": 2189278128,
+          "indices": [
+            80,
+            92
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://www.youtube.com/watch?v=Y1PUA0W-yFw",
+          "indices": [
+            94,
+            117
+          ],
+          "url": "https://t.co/lxvNPZ7ex2",
+          "display_url": "youtube.com/watch?v=Y1PUA0\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            57,
+            72
+          ],
+          "text": "CaAeroWeek2015"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581210494524137472,
+    "created_at": "Thu Mar 26 21:45:54 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Getting ready to depart on a week-long trip through Eastern Europe to learn about the situation in Ukraine. http://t.co/5zsdEz5Ol1",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "581169629063708672",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "581169627725697024",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/581169629063708672/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            108,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/CBC6sn7WEAA7mYy.jpg",
+          "type": "photo",
+          "id": 581169627725697024,
+          "url": "http://t.co/5zsdEz5Ol1",
+          "media_url_https": "https://pbs.twimg.com/media/CBC6sn7WEAA7mYy.jpg",
+          "display_url": "pic.twitter.com/5zsdEz5Ol1"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581169629063708672,
+    "created_at": "Thu Mar 26 19:03:31 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "581169627725697024",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/581169629063708672/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            108,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/CBC6sn7WEAA7mYy.jpg",
+          "type": "photo",
+          "id": 581169627725697024,
+          "url": "http://t.co/5zsdEz5Ol1",
+          "media_url_https": "https://pbs.twimg.com/media/CBC6sn7WEAA7mYy.jpg",
+          "display_url": "pic.twitter.com/5zsdEz5Ol1"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Congrats to the California State Legislature, especially @JeanFuller, as well as @aiaa  and @CAAerospace on a great #CaAeroWeek2015",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "581127138528641024",
+    "lang": "en",
+    "favorite_count": 3,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "21128266",
+          "name": "Jean Fuller",
+          "screen_name": "JeanFuller",
+          "id": 21128266,
+          "indices": [
+            57,
+            68
+          ]
+        },
+        {
+          "id_str": "44369634",
+          "name": "AIAA",
+          "screen_name": "aiaa",
+          "id": 44369634,
+          "indices": [
+            81,
+            86
+          ]
+        },
+        {
+          "id_str": "2189278128",
+          "name": "California Aerospace",
+          "screen_name": "CAAerospace",
+          "id": 2189278128,
+          "indices": [
+            92,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            131
+          ],
+          "text": "CaAeroWeek2015"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581127138528641024,
+    "created_at": "Thu Mar 26 16:14:41 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "In Tactical Air and Land Subcommittee asking Major General Timothy M. Ray about the future of our fighter programs.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "581092783726948352",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581092783726948352,
+    "created_at": "Thu Mar 26 13:58:10 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Happy to announce that my bill, HR 1390, just passed out of Small Business Committee with unanimous support.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "580813674543230977",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580813674543230977,
+    "created_at": "Wed Mar 25 19:29:05 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @PaulChappell: Glad to see @wcbc_today graduate, Zach Wall, working in Representative @SteveKnight25's office. #CapConn15 http://t.co/Ie\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "580517366896992256",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "contributors": null,
+      "text": "Glad to see @wcbc_today graduate, Zach Wall, working in Representative @SteveKnight25's office. #CapConn15 http://t.co/IegMKSNLPO",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 3,
+      "coordinates": null,
+      "id_str": "580466634801942530",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 24,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "36102098",
+            "name": "WCBC",
+            "screen_name": "wcbc_today",
+            "id": 36102098,
+            "indices": [
+              12,
+              23
+            ]
+          },
+          {
+            "id_str": "2974648323",
+            "name": "Rep. Steve Knight",
+            "screen_name": "SteveKnight25",
+            "id": 2974648323,
+            "indices": [
+              71,
+              85
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "580466633996689408",
+            "expanded_url": "http://twitter.com/PaulChappell/status/580466634801942530/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 640,
+                "h": 480
+              }
+            },
+            "indices": [
+              107,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+            "type": "photo",
+            "id": 580466633996689408,
+            "url": "http://t.co/IegMKSNLPO",
+            "media_url_https": "https://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+            "display_url": "pic.twitter.com/IegMKSNLPO"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              96,
+              106
+            ],
+            "text": "CapConn15"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "6603662",
+        "id": 6603662
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 580466634801942530,
+      "created_at": "Tue Mar 24 20:30:04 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "580466633996689408",
+            "expanded_url": "http://twitter.com/PaulChappell/status/580466634801942530/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 640,
+                "h": 480
+              }
+            },
+            "indices": [
+              107,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+            "type": "photo",
+            "id": 580466633996689408,
+            "url": "http://t.co/IegMKSNLPO",
+            "media_url_https": "https://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+            "display_url": "pic.twitter.com/IegMKSNLPO"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "6603662",
+          "name": "Paul Chappell",
+          "screen_name": "PaulChappell",
+          "id": 6603662,
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "id_str": "36102098",
+          "name": "WCBC",
+          "screen_name": "wcbc_today",
+          "id": 36102098,
+          "indices": [
+            30,
+            41
+          ]
+        },
+        {
+          "id_str": "2974648323",
+          "name": "Rep. Steve Knight",
+          "screen_name": "SteveKnight25",
+          "id": 2974648323,
+          "indices": [
+            89,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 480
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "580466634801942530",
+          "source_user_id_str": "6603662",
+          "indices": [
+            125,
+            140
+          ],
+          "source_status_id": 580466634801942530,
+          "id": 580466633996689408,
+          "url": "http://t.co/IegMKSNLPO",
+          "media_url_https": "https://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+          "id_str": "580466633996689408",
+          "expanded_url": "http://twitter.com/PaulChappell/status/580466634801942530/photo/1",
+          "media_url": "http://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+          "source_user_id": 6603662,
+          "display_url": "pic.twitter.com/IegMKSNLPO"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            114,
+            124
+          ],
+          "text": "CapConn15"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580517366896992256,
+    "created_at": "Tue Mar 24 23:51:40 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 480
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "580466634801942530",
+          "source_user_id_str": "6603662",
+          "indices": [
+            125,
+            140
+          ],
+          "source_status_id": 580466634801942530,
+          "id": 580466633996689408,
+          "url": "http://t.co/IegMKSNLPO",
+          "media_url_https": "https://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+          "id_str": "580466633996689408",
+          "expanded_url": "http://twitter.com/PaulChappell/status/580466634801942530/photo/1",
+          "media_url": "http://pbs.twimg.com/media/CA47VANW4AAkFiD.jpg",
+          "source_user_id": 6603662,
+          "display_url": "pic.twitter.com/IegMKSNLPO"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Just had a good talk w General Bunch about sequestration and Edwards AFB. Congratulations General on your 3rd star. http://t.co/2DfYU0mdtr",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "580407585876140032",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "580407584328388608",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/580407585876140032/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CA4Fn3DWEAA1rWM.jpg",
+          "type": "photo",
+          "id": 580407584328388608,
+          "url": "http://t.co/2DfYU0mdtr",
+          "media_url_https": "https://pbs.twimg.com/media/CA4Fn3DWEAA1rWM.jpg",
+          "display_url": "pic.twitter.com/2DfYU0mdtr"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580407585876140032,
+    "created_at": "Tue Mar 24 16:35:26 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "580407584328388608",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/580407585876140032/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CA4Fn3DWEAA1rWM.jpg",
+          "type": "photo",
+          "id": 580407584328388608,
+          "url": "http://t.co/2DfYU0mdtr",
+          "media_url_https": "https://pbs.twimg.com/media/CA4Fn3DWEAA1rWM.jpg",
+          "display_url": "pic.twitter.com/2DfYU0mdtr"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Had a fantastic week in the district-great meetings, events, and weather. Now it's back to DC for more legislative work!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "577461927330332672",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 577461927330332672,
+    "created_at": "Mon Mar 16 13:30:26 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @Pathway2Future: Congressman Steve Knight talking to business students with Mrs. Cox at West Ranch HS @SteveKnight25 http://t.co/FISDmuF\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "576091832851046400",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "contributors": null,
+      "text": "Congressman Steve Knight talking to business students with Mrs. Cox at West Ranch HS @SteveKnight25 http://t.co/FISDmuFwtB",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 1,
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -118.59660834,
+          34.40383995
+        ]
+      },
+      "id_str": "576080175818878976",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "in_reply_to_user_id_str": null,
+      "place": {
+        "country": "United States",
+        "name": "Stevenson Ranch",
+        "full_name": "Stevenson Ranch, CA",
+        "attributes": {},
+        "country_code": "US",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -118.622276,
+                34.366596
+              ],
+              [
+                -118.560263,
+                34.366596
+              ],
+              [
+                -118.560263,
+                34.4180643
+              ],
+              [
+                -118.622276,
+                34.4180643
+              ]
+            ]
+          ]
+        },
+        "place_type": "city",
+        "id": "00ab310716dc2504",
+        "url": "https://api.twitter.com/1.1/geo/id/00ab310716dc2504.json",
+        "contained_within": []
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          34.40383995,
+          -118.59660834
+        ]
+      },
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2974648323",
+            "name": "Rep. Steve Knight",
+            "screen_name": "SteveKnight25",
+            "id": 2974648323,
+            "indices": [
+              85,
+              99
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "576080054192488448",
+            "expanded_url": "http://twitter.com/Pathway2Future/status/576080175818878976/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 768
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              }
+            },
+            "indices": [
+              100,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+            "type": "photo",
+            "id": 576080054192488448,
+            "url": "http://t.co/FISDmuFwtB",
+            "media_url_https": "https://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+            "display_url": "pic.twitter.com/FISDmuFwtB"
+          }
+        ],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "2919988650",
+        "id": 2919988650
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 576080175818878976,
+      "created_at": "Thu Mar 12 17:59:51 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "576080054192488448",
+            "expanded_url": "http://twitter.com/Pathway2Future/status/576080175818878976/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 768
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              }
+            },
+            "indices": [
+              100,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+            "type": "photo",
+            "id": 576080054192488448,
+            "url": "http://t.co/FISDmuFwtB",
+            "media_url_https": "https://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+            "display_url": "pic.twitter.com/FISDmuFwtB"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2919988650",
+          "name": "Pathway To My Future",
+          "screen_name": "Pathway2Future",
+          "id": 2919988650,
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id_str": "2974648323",
+          "name": "Rep. Steve Knight",
+          "screen_name": "SteveKnight25",
+          "id": 2974648323,
+          "indices": [
+            105,
+            119
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "576080175818878976",
+          "source_user_id_str": "2919988650",
+          "indices": [
+            120,
+            140
+          ],
+          "source_status_id": 576080175818878976,
+          "id": 576080054192488448,
+          "url": "http://t.co/FISDmuFwtB",
+          "media_url_https": "https://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+          "id_str": "576080054192488448",
+          "expanded_url": "http://twitter.com/Pathway2Future/status/576080175818878976/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+          "source_user_id": 2919988650,
+          "display_url": "pic.twitter.com/FISDmuFwtB"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 576091832851046400,
+    "created_at": "Thu Mar 12 18:46:10 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "576080175818878976",
+          "source_user_id_str": "2919988650",
+          "indices": [
+            120,
+            140
+          ],
+          "source_status_id": 576080175818878976,
+          "id": 576080054192488448,
+          "url": "http://t.co/FISDmuFwtB",
+          "media_url_https": "https://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+          "id_str": "576080054192488448",
+          "expanded_url": "http://twitter.com/Pathway2Future/status/576080175818878976/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_6lwdBUwAAs5Dc.jpg",
+          "source_user_id": 2919988650,
+          "display_url": "pic.twitter.com/FISDmuFwtB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Had a great time talking about the role of government at @TrinitySCV yesterday. Thank you for having me! http://t.co/n7nlCoiTnY",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "575672463855587328",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2883571639",
+          "name": "Trinity Classical",
+          "screen_name": "TrinitySCV",
+          "id": 2883571639,
+          "indices": [
+            57,
+            68
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "575672463113089024",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/575672463855587328/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 864,
+              "h": 576
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_0zDh7UcAAJj5Y.jpg",
+          "type": "photo",
+          "id": 575672463113089024,
+          "url": "http://t.co/n7nlCoiTnY",
+          "media_url_https": "https://pbs.twimg.com/media/B_0zDh7UcAAJj5Y.jpg",
+          "display_url": "pic.twitter.com/n7nlCoiTnY"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 575672463855587328,
+    "created_at": "Wed Mar 11 14:59:45 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "575672463113089024",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/575672463855587328/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 864,
+              "h": 576
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_0zDh7UcAAJj5Y.jpg",
+          "type": "photo",
+          "id": 575672463113089024,
+          "url": "http://t.co/n7nlCoiTnY",
+          "media_url_https": "https://pbs.twimg.com/media/B_0zDh7UcAAJj5Y.jpg",
+          "display_url": "pic.twitter.com/n7nlCoiTnY"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Check out the latest Knight Vision!\nhttps://t.co/10jf4aQkyV",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "575069338849447936",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/media-center/newsletter/march-9th-newsletter",
+          "indices": [
+            36,
+            59
+          ],
+          "url": "https://t.co/10jf4aQkyV",
+          "display_url": "knight.house.gov/media-center/n\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 575069338849447936,
+    "created_at": "Mon Mar 09 23:03:09 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Don't forget about my Antelope Valley Office Open House next Tuesday, March 10! http://t.co/qaJ0Kezn5H",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "573235574460551168",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "573235574007595008",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/573235574460551168/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 612,
+              "h": 792
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 776
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 440
+            }
+          },
+          "indices": [
+            80,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_SKt6lXAAAAW1m.png",
+          "type": "photo",
+          "id": 573235574007595008,
+          "url": "http://t.co/qaJ0Kezn5H",
+          "media_url_https": "https://pbs.twimg.com/media/B_SKt6lXAAAAW1m.png",
+          "display_url": "pic.twitter.com/qaJ0Kezn5H"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573235574460551168,
+    "created_at": "Wed Mar 04 21:36:25 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "573235574007595008",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/573235574460551168/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 612,
+              "h": 792
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 776
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 440
+            }
+          },
+          "indices": [
+            80,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_SKt6lXAAAAW1m.png",
+          "type": "photo",
+          "id": 573235574007595008,
+          "url": "http://t.co/qaJ0Kezn5H",
+          "media_url_https": "https://pbs.twimg.com/media/B_SKt6lXAAAAW1m.png",
+          "display_url": "pic.twitter.com/qaJ0Kezn5H"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @aiaa: Thanks for a great meeting @SteveKnight25 - \"It's about #aerospace and #jobs.\"  #AIAAcvd http://t.co/9vnbvDfg2n",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "573183710213885952",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "contributors": null,
+      "text": "Thanks for a great meeting @SteveKnight25 - \"It's about #aerospace and #jobs.\"  #AIAAcvd http://t.co/9vnbvDfg2n",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 2,
+      "coordinates": null,
+      "id_str": "573181560989609985",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2974648323",
+            "name": "Rep. Steve Knight",
+            "screen_name": "SteveKnight25",
+            "id": 2974648323,
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "573181557827117056",
+            "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 768
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              }
+            },
+            "indices": [
+              89,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+            "type": "photo",
+            "id": 573181557827117056,
+            "url": "http://t.co/9vnbvDfg2n",
+            "media_url_https": "https://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+            "display_url": "pic.twitter.com/9vnbvDfg2n"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              56,
+              66
+            ],
+            "text": "aerospace"
+          },
+          {
+            "indices": [
+              71,
+              76
+            ],
+            "text": "jobs"
+          },
+          {
+            "indices": [
+              80,
+              88
+            ],
+            "text": "AIAAcvd"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "44369634",
+        "id": 44369634
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 573181560989609985,
+      "created_at": "Wed Mar 04 18:01:47 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "573181557827117056",
+            "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 768
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 450
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 255
+              }
+            },
+            "indices": [
+              89,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+            "type": "photo",
+            "id": 573181557827117056,
+            "url": "http://t.co/9vnbvDfg2n",
+            "media_url_https": "https://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+            "display_url": "pic.twitter.com/9vnbvDfg2n"
+          },
+          {
+            "id_str": "573181557835489281",
+            "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 768,
+                "h": 1024
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 800
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 453
+              }
+            },
+            "indices": [
+              89,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_RZlwqW4AEuChX.jpg",
+            "type": "photo",
+            "id": 573181557835489281,
+            "url": "http://t.co/9vnbvDfg2n",
+            "media_url_https": "https://pbs.twimg.com/media/B_RZlwqW4AEuChX.jpg",
+            "display_url": "pic.twitter.com/9vnbvDfg2n"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "44369634",
+          "name": "AIAA",
+          "screen_name": "aiaa",
+          "id": 44369634,
+          "indices": [
+            3,
+            8
+          ]
+        },
+        {
+          "id_str": "2974648323",
+          "name": "Rep. Steve Knight",
+          "screen_name": "SteveKnight25",
+          "id": 2974648323,
+          "indices": [
+            37,
+            51
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "573181560989609985",
+          "source_user_id_str": "44369634",
+          "indices": [
+            99,
+            121
+          ],
+          "source_status_id": 573181560989609985,
+          "id": 573181557827117056,
+          "url": "http://t.co/9vnbvDfg2n",
+          "media_url_https": "https://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+          "id_str": "573181557827117056",
+          "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+          "source_user_id": 44369634,
+          "display_url": "pic.twitter.com/9vnbvDfg2n"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            76
+          ],
+          "text": "aerospace"
+        },
+        {
+          "indices": [
+            81,
+            86
+          ],
+          "text": "jobs"
+        },
+        {
+          "indices": [
+            90,
+            98
+          ],
+          "text": "AIAAcvd"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573183710213885952,
+    "created_at": "Wed Mar 04 18:10:20 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "573181560989609985",
+          "source_user_id_str": "44369634",
+          "indices": [
+            99,
+            121
+          ],
+          "source_status_id": 573181560989609985,
+          "id": 573181557827117056,
+          "url": "http://t.co/9vnbvDfg2n",
+          "media_url_https": "https://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+          "id_str": "573181557827117056",
+          "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_RZlwoXIAAlJFP.jpg",
+          "source_user_id": 44369634,
+          "display_url": "pic.twitter.com/9vnbvDfg2n"
+        },
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 768,
+              "h": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 800
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "573181560989609985",
+          "source_user_id_str": "44369634",
+          "indices": [
+            99,
+            121
+          ],
+          "source_status_id": 573181560989609985,
+          "id": 573181557835489281,
+          "url": "http://t.co/9vnbvDfg2n",
+          "media_url_https": "https://pbs.twimg.com/media/B_RZlwqW4AEuChX.jpg",
+          "id_str": "573181557835489281",
+          "expanded_url": "http://twitter.com/aiaa/status/573181560989609985/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_RZlwqW4AEuChX.jpg",
+          "source_user_id": 44369634,
+          "display_url": "pic.twitter.com/9vnbvDfg2n"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "It was an honor to be visited by the VFW National Legislative Committee, especially Mary from Simi Valley! http://t.co/k6QpyzZOLk",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "572897322457272320",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "572897321278550016",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/572897322457272320/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            107,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_NXFA-UsAAJX0C.jpg",
+          "type": "photo",
+          "id": 572897321278550016,
+          "url": "http://t.co/k6QpyzZOLk",
+          "media_url_https": "https://pbs.twimg.com/media/B_NXFA-UsAAJX0C.jpg",
+          "display_url": "pic.twitter.com/k6QpyzZOLk"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572897322457272320,
+    "created_at": "Tue Mar 03 23:12:20 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "572897321278550016",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/572897322457272320/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            107,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_NXFA-UsAAJX0C.jpg",
+          "type": "photo",
+          "id": 572897321278550016,
+          "url": "http://t.co/k6QpyzZOLk",
+          "media_url_https": "https://pbs.twimg.com/media/B_NXFA-UsAAJX0C.jpg",
+          "display_url": "pic.twitter.com/k6QpyzZOLk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Got to sit down with Rabbi Blazer and some other constituents who are here in DC with AIPAC. http://t.co/tih1pn52XW",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "572847503659405312",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "572847503105781760",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/572847503659405312/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_MpxN0W8AAa6TZ.jpg",
+          "type": "photo",
+          "id": 572847503105781760,
+          "url": "http://t.co/tih1pn52XW",
+          "media_url_https": "https://pbs.twimg.com/media/B_MpxN0W8AAa6TZ.jpg",
+          "display_url": "pic.twitter.com/tih1pn52XW"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572847503659405312,
+    "created_at": "Tue Mar 03 19:54:22 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "572847503105781760",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/572847503659405312/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_MpxN0W8AAa6TZ.jpg",
+          "type": "photo",
+          "id": 572847503105781760,
+          "url": "http://t.co/tih1pn52XW",
+          "media_url_https": "https://pbs.twimg.com/media/B_MpxN0W8AAa6TZ.jpg",
+          "display_url": "pic.twitter.com/tih1pn52XW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This morning I had breakfast with Secretary of the Air Force Deborah Lee James, then heard Benjamin Netanyahu speak on the House Floor.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "572811636601438209",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572811636601438209,
+    "created_at": "Tue Mar 03 17:31:51 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Come check out my Antelope Valley District Office  at our Open House from 5-7pm on Tuesday, March 10.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "572540106642481155",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572540106642481155,
+    "created_at": "Mon Mar 02 23:32:53 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Check out my latest Knight Vision on my website! https://t.co/eYjSkzqUci",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "571457656394809344",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/media-center/newsletter/february-27th-newsletter",
+          "indices": [
+            49,
+            72
+          ],
+          "url": "https://t.co/eYjSkzqUci",
+          "display_url": "knight.house.gov/media-center/n\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571457656394809344,
+    "created_at": "Fri Feb 27 23:51:37 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Congratulations to the Antelope Valley Board of Trade on another successful Business Outlook Conference. http://t.co/y5SkuLrwLH",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "571426636903657472",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "571426636114976768",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/571426636903657472/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-4df3zUYAAITRs.jpg",
+          "type": "photo",
+          "id": 571426636114976768,
+          "url": "http://t.co/y5SkuLrwLH",
+          "media_url_https": "https://pbs.twimg.com/media/B-4df3zUYAAITRs.jpg",
+          "display_url": "pic.twitter.com/y5SkuLrwLH"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571426636903657472,
+    "created_at": "Fri Feb 27 21:48:21 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "571426636114976768",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/571426636903657472/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-4df3zUYAAITRs.jpg",
+          "type": "photo",
+          "id": 571426636114976768,
+          "url": "http://t.co/y5SkuLrwLH",
+          "media_url_https": "https://pbs.twimg.com/media/B-4df3zUYAAITRs.jpg",
+          "display_url": "pic.twitter.com/y5SkuLrwLH"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Just got to sit down with @astro_g_dogg with #spacex. Not everyday you speak with an #ISS veteran! http://t.co/kEhzyYg9nG",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "571006936361123840",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "54712148",
+          "name": "Garrett Reisman",
+          "screen_name": "astro_g_dogg",
+          "id": 54712148,
+          "indices": [
+            26,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "571006935798935553",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/571006936361123840/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 700,
+              "h": 660
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 565
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 320
+            }
+          },
+          "indices": [
+            99,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-yfyGSUcAEaVYh.png",
+          "type": "photo",
+          "id": 571006935798935553,
+          "url": "http://t.co/kEhzyYg9nG",
+          "media_url_https": "https://pbs.twimg.com/media/B-yfyGSUcAEaVYh.png",
+          "display_url": "pic.twitter.com/kEhzyYg9nG"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            52
+          ],
+          "text": "spacex"
+        },
+        {
+          "indices": [
+            85,
+            89
+          ],
+          "text": "ISS"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571006936361123840,
+    "created_at": "Thu Feb 26 18:00:37 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "571006935798935553",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/571006936361123840/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 700,
+              "h": 660
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 565
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 320
+            }
+          },
+          "indices": [
+            99,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-yfyGSUcAEaVYh.png",
+          "type": "photo",
+          "id": 571006935798935553,
+          "url": "http://t.co/kEhzyYg9nG",
+          "media_url_https": "https://pbs.twimg.com/media/B-yfyGSUcAEaVYh.png",
+          "display_url": "pic.twitter.com/kEhzyYg9nG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Check out my official newsletter, Knight Vision, and be sure to sign up if you haven't already!\nhttps://t.co/gxRRSqxUIy",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568950921901834240",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/newsletter-february",
+          "indices": [
+            96,
+            119
+          ],
+          "url": "https://t.co/gxRRSqxUIy",
+          "display_url": "knight.house.gov/newsletter-feb\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568950921901834240,
+    "created_at": "Sat Feb 21 01:50:45 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Very informative and productive night with the Sand Canyon Community Association last night. http://t.co/42eQHAVhiB",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "568795814358855680",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "568795813917114368",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/568795814358855680/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 337
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-TEx3ZCQAAQ368.jpg",
+          "type": "photo",
+          "id": 568795813917114368,
+          "url": "http://t.co/42eQHAVhiB",
+          "media_url_https": "https://pbs.twimg.com/media/B-TEx3ZCQAAQ368.jpg",
+          "display_url": "pic.twitter.com/42eQHAVhiB"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568795814358855680,
+    "created_at": "Fri Feb 20 15:34:24 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "568795813917114368",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/568795814358855680/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 337
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-TEx3ZCQAAQ368.jpg",
+          "type": "photo",
+          "id": 568795813917114368,
+          "url": "http://t.co/42eQHAVhiB",
+          "media_url_https": "https://pbs.twimg.com/media/B-TEx3ZCQAAQ368.jpg",
+          "display_url": "pic.twitter.com/42eQHAVhiB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Tonight I'll be listening and speaking at the Sand Canyon Community Association Annual Meeting about issues of interest to the area. #SCV",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568542135370301440",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            133,
+            137
+          ],
+          "text": "SCV"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568542135370301440,
+    "created_at": "Thu Feb 19 22:46:22 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Stay updated on what's going on around the Capitol and District! Please sign up for my eNewsletter at this link:\nhttps://t.co/gGPhoOHFCS",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568459907365789696",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://knight.house.gov/contact/newsletter",
+          "indices": [
+            113,
+            136
+          ],
+          "url": "https://t.co/gGPhoOHFCS",
+          "display_url": "knight.house.gov/contact/newsle\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568459907365789696,
+    "created_at": "Thu Feb 19 17:19:38 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I'll be speaking to students at Canyon HS and Saugus HS, taking meetings in AV and speaking at The Boys and Girls Club in Simi Valley.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568056617536765952",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568056617536765952,
+    "created_at": "Wed Feb 18 14:37:06 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Got to visit DaVita HealthCare Partners in Santa Clarita. What a great company that is providing quality care to SCV. http://t.co/kxW5Lt9cJY",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "567830263930290176",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "567830263242424321",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/567830263930290176/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-FWna1IAAE6aZC.jpg",
+          "type": "photo",
+          "id": 567830263242424321,
+          "url": "http://t.co/kxW5Lt9cJY",
+          "media_url_https": "https://pbs.twimg.com/media/B-FWna1IAAE6aZC.jpg",
+          "display_url": "pic.twitter.com/kxW5Lt9cJY"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567830263930290176,
+    "created_at": "Tue Feb 17 23:37:39 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "567830263242424321",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/567830263930290176/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-FWna1IAAE6aZC.jpg",
+          "type": "photo",
+          "id": 567830263242424321,
+          "url": "http://t.co/kxW5Lt9cJY",
+          "media_url_https": "https://pbs.twimg.com/media/B-FWna1IAAE6aZC.jpg",
+          "display_url": "pic.twitter.com/kxW5Lt9cJY"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "My Washington, DC Office will be closed today. If you'd like to get in touch, please call my Palmdale District Office at (661) 441-0320.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "567762981204029440",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567762981204029440,
+    "created_at": "Tue Feb 17 19:10:17 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I just spoke on the House Floor about HR 644- Fighting Hunger Incentive Act of 2015. Follow the link to check it out.\nhttp://t.co/M7gZxqxpLA",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565990061666492416",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1D0Kjht",
+          "indices": [
+            118,
+            140
+          ],
+          "url": "http://t.co/M7gZxqxpLA",
+          "display_url": "bit.ly/1D0Kjht"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565990061666492416,
+    "created_at": "Thu Feb 12 21:45:20 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @SOFIAtelescope: SOFIA is @NASA's Image of the Day! http://t.co/I6W2j6JzFN #NASA747 http://t.co/M6MWRT53wp",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 15,
+    "coordinates": null,
+    "id_str": "565906556018257920",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": "SOFIA is @NASA's Image of the Day! http://t.co/I6W2j6JzFN #NASA747 http://t.co/M6MWRT53wp",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 15,
+      "coordinates": null,
+      "id_str": "565901523163443201",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 16,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "11348282",
+            "name": "NASA",
+            "screen_name": "NASA",
+            "id": 11348282,
+            "indices": [
+              9,
+              14
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "expanded_url": "http://www.nasa.gov/",
+            "indices": [
+              35,
+              57
+            ],
+            "url": "http://t.co/I6W2j6JzFN",
+            "display_url": "nasa.gov"
+          }
+        ],
+        "media": [
+          {
+            "id_str": "565901522903384064",
+            "expanded_url": "http://twitter.com/SOFIAtelescope/status/565901523163443201/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 946,
+                "h": 628
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 398
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 225
+              }
+            },
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+            "type": "photo",
+            "id": 565901522903384064,
+            "url": "http://t.co/M6MWRT53wp",
+            "media_url_https": "https://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+            "display_url": "pic.twitter.com/M6MWRT53wp"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              58,
+              66
+            ],
+            "text": "NASA747"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "16876667",
+        "id": 16876667
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 565901523163443201,
+      "created_at": "Thu Feb 12 15:53:31 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "565901522903384064",
+            "expanded_url": "http://twitter.com/SOFIAtelescope/status/565901523163443201/photo/1",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 946,
+                "h": 628
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 398
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 225
+              }
+            },
+            "indices": [
+              67,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+            "type": "photo",
+            "id": 565901522903384064,
+            "url": "http://t.co/M6MWRT53wp",
+            "media_url_https": "https://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+            "display_url": "pic.twitter.com/M6MWRT53wp"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "16876667",
+          "name": "SOFIAtelescope",
+          "screen_name": "SOFIAtelescope",
+          "id": 16876667,
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id_str": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "id": 11348282,
+          "indices": [
+            29,
+            34
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://www.nasa.gov/",
+          "indices": [
+            55,
+            77
+          ],
+          "url": "http://t.co/I6W2j6JzFN",
+          "display_url": "nasa.gov"
+        }
+      ],
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 946,
+              "h": 628
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 398
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 225
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "565901523163443201",
+          "source_user_id_str": "16876667",
+          "indices": [
+            87,
+            109
+          ],
+          "source_status_id": 565901523163443201,
+          "id": 565901522903384064,
+          "url": "http://t.co/M6MWRT53wp",
+          "media_url_https": "https://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+          "id_str": "565901522903384064",
+          "expanded_url": "http://twitter.com/SOFIAtelescope/status/565901523163443201/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+          "source_user_id": 16876667,
+          "display_url": "pic.twitter.com/M6MWRT53wp"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            78,
+            86
+          ],
+          "text": "NASA747"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565906556018257920,
+    "created_at": "Thu Feb 12 16:13:31 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 946,
+              "h": 628
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 398
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 225
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "565901523163443201",
+          "source_user_id_str": "16876667",
+          "indices": [
+            87,
+            109
+          ],
+          "source_status_id": 565901523163443201,
+          "id": 565901522903384064,
+          "url": "http://t.co/M6MWRT53wp",
+          "media_url_https": "https://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+          "id_str": "565901522903384064",
+          "expanded_url": "http://twitter.com/SOFIAtelescope/status/565901523163443201/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9p8b9KCQAAJ-nG.jpg",
+          "source_user_id": 16876667,
+          "display_url": "pic.twitter.com/M6MWRT53wp"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "@SCVTweets Talking with Santa Clarita City Council and CEMEX, working on a solution. Stay posted. Thanks for asking!",
+    "in_reply_to_status_id_str": "565302604977422337",
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "565573452896436227",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": "550483906",
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "550483906",
+          "name": "SCVTalk",
+          "screen_name": "SCVTweets",
+          "id": 550483906,
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": 550483906,
+    "in_reply_to_screen_name": "SCVTweets",
+    "id": 565573452896436227,
+    "created_at": "Wed Feb 11 18:09:53 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": 565302604977422337
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "In a HASC hearing talking about the 2015 Budget and the future of vital programs like the Joint Strike Fighter. http://t.co/mgKn5yfHDr",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565564549013979137",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "565564548510679040",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/565564549013979137/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 261
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 460
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 786
+            }
+          },
+          "indices": [
+            112,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9lJ9duIgAAhm0g.png",
+          "type": "photo",
+          "id": 565564548510679040,
+          "url": "http://t.co/mgKn5yfHDr",
+          "media_url_https": "https://pbs.twimg.com/media/B9lJ9duIgAAhm0g.png",
+          "display_url": "pic.twitter.com/mgKn5yfHDr"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565564549013979137,
+    "created_at": "Wed Feb 11 17:34:30 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "565564548510679040",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/565564549013979137/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 261
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 460
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 786
+            }
+          },
+          "indices": [
+            112,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9lJ9duIgAAhm0g.png",
+          "type": "photo",
+          "id": 565564548510679040,
+          "url": "http://t.co/mgKn5yfHDr",
+          "media_url_https": "https://pbs.twimg.com/media/B9lJ9duIgAAhm0g.png",
+          "display_url": "pic.twitter.com/mgKn5yfHDr"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "contributors": null,
+    "text": "Just voted for the NASA Authorization Act of 2015. Proud to support #NASA, especially great local programs like @SOFIAtelescope in Palmdale.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "565297846480830464",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "16876667",
+          "name": "SOFIAtelescope",
+          "screen_name": "SOFIAtelescope",
+          "id": 16876667,
+          "indices": [
+            112,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            68,
+            73
+          ],
+          "text": "NASA"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565297846480830464,
+    "created_at": "Tue Feb 10 23:54:43 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "View from our bus at the U.S. Naval Academy in Annapolis. Here for a House Armed Services member retreat. http://t.co/OejssOfQXt",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565193449704787968",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "565193449280774144",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/565193449704787968/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            106,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9f4cpXCIAAjNrI.jpg",
+          "type": "photo",
+          "id": 565193449280774144,
+          "url": "http://t.co/OejssOfQXt",
+          "media_url_https": "https://pbs.twimg.com/media/B9f4cpXCIAAjNrI.jpg",
+          "display_url": "pic.twitter.com/OejssOfQXt"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565193449704787968,
+    "created_at": "Tue Feb 10 16:59:53 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "565193449280774144",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/565193449704787968/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            106,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9f4cpXCIAAjNrI.jpg",
+          "type": "photo",
+          "id": 565193449280774144,
+          "url": "http://t.co/OejssOfQXt",
+          "media_url_https": "https://pbs.twimg.com/media/B9f4cpXCIAAjNrI.jpg",
+          "display_url": "pic.twitter.com/OejssOfQXt"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @HouseScience: Today, the House will consider #NASA Authorization bill to maintain US leadership in space http://t.co/Ep8Be2KH5B",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 16,
+    "coordinates": null,
+    "id_str": "565187505478467584",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": "Today, the House will consider #NASA Authorization bill to maintain US leadership in space http://t.co/Ep8Be2KH5B",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 16,
+      "coordinates": null,
+      "id_str": "565178321190019072",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 12,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "565178320791543808",
+            "expanded_url": "http://twitter.com/HouseScience/status/565178321190019072/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 199
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 352
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 601
+              }
+            },
+            "indices": [
+              91,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+            "type": "photo",
+            "id": 565178320791543808,
+            "url": "http://t.co/Ep8Be2KH5B",
+            "media_url_https": "https://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+            "display_url": "pic.twitter.com/Ep8Be2KH5B"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              31,
+              36
+            ],
+            "text": "NASA"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "23103488",
+        "id": 23103488
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 565178321190019072,
+      "created_at": "Tue Feb 10 15:59:46 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "565178320791543808",
+            "expanded_url": "http://twitter.com/HouseScience/status/565178321190019072/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 199
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 352
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1024,
+                "h": 601
+              }
+            },
+            "indices": [
+              91,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+            "type": "photo",
+            "id": 565178320791543808,
+            "url": "http://t.co/Ep8Be2KH5B",
+            "media_url_https": "https://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+            "display_url": "pic.twitter.com/Ep8Be2KH5B"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "23103488",
+          "name": "Sci,Space,&Tech Cmte",
+          "screen_name": "HouseScience",
+          "id": 23103488,
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 199
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 352
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 601
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "565178321190019072",
+          "source_user_id_str": "23103488",
+          "indices": [
+            109,
+            131
+          ],
+          "source_status_id": 565178321190019072,
+          "id": 565178320791543808,
+          "url": "http://t.co/Ep8Be2KH5B",
+          "media_url_https": "https://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+          "id_str": "565178320791543808",
+          "expanded_url": "http://twitter.com/HouseScience/status/565178321190019072/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+          "source_user_id": 23103488,
+          "display_url": "pic.twitter.com/Ep8Be2KH5B"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            49,
+            54
+          ],
+          "text": "NASA"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565187505478467584,
+    "created_at": "Tue Feb 10 16:36:16 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 199
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 352
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 601
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "565178321190019072",
+          "source_user_id_str": "23103488",
+          "indices": [
+            109,
+            131
+          ],
+          "source_status_id": 565178321190019072,
+          "id": 565178320791543808,
+          "url": "http://t.co/Ep8Be2KH5B",
+          "media_url_https": "https://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+          "id_str": "565178320791543808",
+          "expanded_url": "http://twitter.com/HouseScience/status/565178321190019072/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9fqsDWIIAAc_9u.jpg",
+          "source_user_id": 23103488,
+          "display_url": "pic.twitter.com/Ep8Be2KH5B"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "@IHeartSCV Typo! @SteveKnight25 is the correct account. Working on getting it all sorted out!",
+    "in_reply_to_status_id_str": "564899589480665088",
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "564900501238861826",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": "2339600544",
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2339600544",
+          "name": "IHeartSCV",
+          "screen_name": "IHeartSCV",
+          "id": 2339600544,
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "id_str": "2974648323",
+          "name": "Rep. Steve Knight",
+          "screen_name": "SteveKnight25",
+          "id": 2974648323,
+          "indices": [
+            17,
+            31
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": 2339600544,
+    "in_reply_to_screen_name": "IHeartSCV",
+    "id": 564900501238861826,
+    "created_at": "Mon Feb 09 21:35:49 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": 564899589480665088
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "@IHeartSCV @RepSteveKnight is the official account. Apologies for the confusion, it's being verified as we speak.",
+    "in_reply_to_status_id_str": "564899589480665088",
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "564900060857905153",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": "2339600544",
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2339600544",
+          "name": "IHeartSCV",
+          "screen_name": "IHeartSCV",
+          "id": 2339600544,
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": 2339600544,
+    "in_reply_to_screen_name": "IHeartSCV",
+    "id": 564900060857905153,
+    "created_at": "Mon Feb 09 21:34:04 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": 564899589480665088
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Had a great weekend in the district, now it's time to get back to DC for another week of hearings, meetings and floor sessions.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "564828478265393152",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 564828478265393152,
+    "created_at": "Mon Feb 09 16:49:37 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I will be celebrating President Reagan's 104th Birthday in Simi Valley.\n#RonaldReagan",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "563749170511884289",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            78,
+            91
+          ],
+          "text": "RonaldReagan"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 563749170511884289,
+    "created_at": "Fri Feb 06 17:20:50 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This morning I spoke on the Floor in support of the Small Business Regulatory Flexibility Improvements Act #HR527 https://t.co/wqDajtoMyC",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "563457343418302465",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://www.youtube.com/watch?v=vTY4a-vvaes",
+          "indices": [
+            114,
+            137
+          ],
+          "url": "https://t.co/wqDajtoMyC",
+          "display_url": "youtube.com/watch?v=vTY4a-\u2026"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            113
+          ],
+          "text": "HR527"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 563457343418302465,
+    "created_at": "Thu Feb 05 22:01:13 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today we will be voting on H.R. 527- the Small Business Regulatory Flexibility Improvements Act- a bill that I am proud to cosponsor.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "563339535372025856",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 563339535372025856,
+    "created_at": "Thu Feb 05 14:13:06 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Got to sit down with Col. John Teichert, a Test Pilot School Graduate, Edwards AFB Alum, and all around great guy http://t.co/IQjpdeIcI8",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "563074746636840961",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "563074746091569154",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/563074746636840961/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            114,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9Bxf47IAAI8_hF.jpg",
+          "type": "photo",
+          "id": 563074746091569154,
+          "url": "http://t.co/IQjpdeIcI8",
+          "media_url_https": "https://pbs.twimg.com/media/B9Bxf47IAAI8_hF.jpg",
+          "display_url": "pic.twitter.com/IQjpdeIcI8"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 563074746636840961,
+    "created_at": "Wed Feb 04 20:40:55 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "563074746091569154",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/563074746636840961/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            114,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9Bxf47IAAI8_hF.jpg",
+          "type": "photo",
+          "id": 563074746091569154,
+          "url": "http://t.co/IQjpdeIcI8",
+          "media_url_https": "https://pbs.twimg.com/media/B9Bxf47IAAI8_hF.jpg",
+          "display_url": "pic.twitter.com/IQjpdeIcI8"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "In Armed Services Committee all morning. Hearing on Recommendations from the Military Compensation and Retirement Modernization Commission.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "563026587604758528",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 563026587604758528,
+    "created_at": "Wed Feb 04 17:29:33 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Glad I got to sit down with some constituents and good friends this afternoon. A warm Capitol welcome to the Roughs! http://t.co/XRoxsY4c7G",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "562701620811939842",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "562701620015026177",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/562701620811939842/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            117,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/B88eJF-IUAE_95b.jpg",
+          "type": "photo",
+          "id": 562701620015026177,
+          "url": "http://t.co/XRoxsY4c7G",
+          "media_url_https": "https://pbs.twimg.com/media/B88eJF-IUAE_95b.jpg",
+          "display_url": "pic.twitter.com/XRoxsY4c7G"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 562701620811939842,
+    "created_at": "Tue Feb 03 19:58:15 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "562701620015026177",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/562701620811939842/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            117,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/B88eJF-IUAE_95b.jpg",
+          "type": "photo",
+          "id": 562701620015026177,
+          "url": "http://t.co/XRoxsY4c7G",
+          "media_url_https": "https://pbs.twimg.com/media/B88eJF-IUAE_95b.jpg",
+          "display_url": "pic.twitter.com/XRoxsY4c7G"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "In a hearing about world wide threats in Armed Services Committee this morning.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "562650741014528000",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 562650741014528000,
+    "created_at": "Tue Feb 03 16:36:04 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Flying back to Washington, DC right now so I can meet with some constituents and vote on the House Floor this evening.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "562293345515749376",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 562293345515749376,
+    "created_at": "Mon Feb 02 16:55:55 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This weekend I was honored to attend the unveiling of the Remembering Our Fallen Memorial Wall at the Reagan Library. http://t.co/FC1unMFf85",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "562284322674458624",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "562284322095243264",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/562284322674458624/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 337
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            }
+          },
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B82inKFCIAAnOyP.jpg",
+          "type": "photo",
+          "id": 562284322095243264,
+          "url": "http://t.co/FC1unMFf85",
+          "media_url_https": "https://pbs.twimg.com/media/B82inKFCIAAnOyP.jpg",
+          "display_url": "pic.twitter.com/FC1unMFf85"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 562284322674458624,
+    "created_at": "Mon Feb 02 16:20:03 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "562284322095243264",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/562284322674458624/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 337
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            }
+          },
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/B82inKFCIAAnOyP.jpg",
+          "type": "photo",
+          "id": 562284322095243264,
+          "url": "http://t.co/FC1unMFf85",
+          "media_url_https": "https://pbs.twimg.com/media/B82inKFCIAAnOyP.jpg",
+          "display_url": "pic.twitter.com/FC1unMFf85"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Taking a moment to remember the Fallen and appreciate all the Gold Star Moms who honor them. http://t.co/WGSsaVuKj8",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "561645739668160512",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "561645738765987840",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/561645739668160512/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8td0tzCMAAKQ5M.jpg",
+          "type": "photo",
+          "id": 561645738765987840,
+          "url": "http://t.co/WGSsaVuKj8",
+          "media_url_https": "https://pbs.twimg.com/media/B8td0tzCMAAKQ5M.jpg",
+          "display_url": "pic.twitter.com/WGSsaVuKj8"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 561645739668160512,
+    "created_at": "Sat Jan 31 22:02:33 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "561645738765987840",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/561645739668160512/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 480,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 453
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8td0tzCMAAKQ5M.jpg",
+          "type": "photo",
+          "id": 561645738765987840,
+          "url": "http://t.co/WGSsaVuKj8",
+          "media_url_https": "https://pbs.twimg.com/media/B8td0tzCMAAKQ5M.jpg",
+          "display_url": "pic.twitter.com/WGSsaVuKj8"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I will be taking meetings around the district, including lunch with Simi Valley Councilman Glen Becerra to discuss future legislation",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "561187380124995585",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 561187380124995585,
+    "created_at": "Fri Jan 30 15:41:12 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Had a great time at the Santa Clarita Community College District Legislative reception this evening! http://t.co/IvIXeztTQz",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "560998311881359362",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "560998308899225600",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/560998311881359362/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "indices": [
+            101,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8kQ_VmIgAAZFlz.jpg",
+          "type": "photo",
+          "id": 560998308899225600,
+          "url": "http://t.co/IvIXeztTQz",
+          "media_url_https": "https://pbs.twimg.com/media/B8kQ_VmIgAAZFlz.jpg",
+          "display_url": "pic.twitter.com/IvIXeztTQz"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560998311881359362,
+    "created_at": "Fri Jan 30 03:09:55 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "560998308899225600",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/560998311881359362/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 768
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 255
+            }
+          },
+          "indices": [
+            101,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8kQ_VmIgAAZFlz.jpg",
+          "type": "photo",
+          "id": 560998308899225600,
+          "url": "http://t.co/IvIXeztTQz",
+          "media_url_https": "https://pbs.twimg.com/media/B8kQ_VmIgAAZFlz.jpg",
+          "display_url": "pic.twitter.com/IvIXeztTQz"
+        },
+        {
+          "id_str": "560998311180902401",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/560998311881359362/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 337
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            }
+          },
+          "indices": [
+            101,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8kQ_eGIIAEcVDY.jpg",
+          "type": "photo",
+          "id": 560998311180902401,
+          "url": "http://t.co/IvIXeztTQz",
+          "media_url_https": "https://pbs.twimg.com/media/B8kQ_eGIIAEcVDY.jpg",
+          "display_url": "pic.twitter.com/IvIXeztTQz"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I'm be taking meetings in Palmdale &amp; later this evening I'll be attending a legislative reception at Santa Clarita Community College",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "560881182343450624",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560881182343450624,
+    "created_at": "Thu Jan 29 19:24:29 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "My Palmdale District Office has a new phone number, feel free to give them a call at (661) 441-0320. More district offices are on the way!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "560849818667737088",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560849818667737088,
+    "created_at": "Thu Jan 29 17:19:51 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "DC is nice but I'm happy to be back in the 25th District once again.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "560843041712640000",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560843041712640000,
+    "created_at": "Thu Jan 29 16:52:55 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today is NASA Day of Remembrance. Lets pay respects to the men and women who made the ultimate sacrifice so that we may explore the universe",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "560556222110527488",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560556222110527488,
+    "created_at": "Wed Jan 28 21:53:12 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I met with Sheriff Jim McDonnell from L.A. County. We discussed immigration, jails, and other issues important to CA25.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "560190887012360192",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 560190887012360192,
+    "created_at": "Tue Jan 27 21:41:29 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This weekend I got to attend the Color Vibe 5k in Palmdale to watch my son Christopher race. http://t.co/pE0lTbTXEf",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "559790973858095105",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "559790973564497922",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/559790973858095105/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 360,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 360,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 604
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8TG7K_IMAIi3oj.jpg",
+          "type": "photo",
+          "id": 559790973564497922,
+          "url": "http://t.co/pE0lTbTXEf",
+          "media_url_https": "https://pbs.twimg.com/media/B8TG7K_IMAIi3oj.jpg",
+          "display_url": "pic.twitter.com/pE0lTbTXEf"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "2974648323",
+      "id": 2974648323
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 559790973858095105,
+    "created_at": "Mon Jan 26 19:12:23 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "559790973564497922",
+          "expanded_url": "http://twitter.com/SteveKnight25/status/559790973858095105/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 360,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 360,
+              "h": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 604
+            }
+          },
+          "indices": [
+            93,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/B8TG7K_IMAIi3oj.jpg",
+          "type": "photo",
+          "id": 559790973564497922,
+          "url": "http://t.co/pE0lTbTXEf",
+          "media_url_https": "https://pbs.twimg.com/media/B8TG7K_IMAIi3oj.jpg",
+          "display_url": "pic.twitter.com/pE0lTbTXEf"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  }
+]

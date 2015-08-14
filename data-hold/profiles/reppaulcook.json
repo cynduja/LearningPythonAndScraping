@@ -1,0 +1,110 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg",
+  "name": "Rep. Paul Cook",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/569979591633022976/m4W5wKkU_normal.jpeg",
+  "listed_count": 286,
+  "notifications": false,
+  "id": 1074412920,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/569979591633022976/m4W5wKkU_normal.jpeg",
+  "location": "Apple Valley, California ",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg",
+  "id_str": "1074412920",
+  "favourites_count": 56,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "B1D2E3",
+  "verified": true,
+  "geo_enabled": true,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 1069,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://cook.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/vy6a8Rp8SU",
+          "display_url": "cook.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/vy6a8Rp8SU",
+  "created_at": "Wed Jan 09 17:43:44 +0000 2013",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074412920/1421183704",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            37,
+            46
+          ],
+          "text": "Passover"
+        },
+        {
+          "indices": [
+            51,
+            58
+          ],
+          "text": "Easter"
+        },
+        {
+          "indices": [
+            114,
+            119
+          ],
+          "text": "CA08"
+        }
+      ]
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "Jeanne and I wish everyone a blessed #Passover and #Easter this weekend. Enjoy this time with family and friends. #CA08",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 11,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584309755096788992,
+    "id_str": "584309755096788992",
+    "created_at": "Sat Apr 04 11:01:16 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 8,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepPaulCook",
+  "default_profile": false,
+  "profile_link_color": "3B94D9",
+  "statuses_count": 996,
+  "followers_count": 3054
+}

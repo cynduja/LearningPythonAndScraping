@@ -1,0 +1,88 @@
+{
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558376856341073921/f4I7EKMO.jpeg",
+  "name": "Rep. Tony C\u00e1rdenas",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523103840891990017/DB1xCC39_normal.jpeg",
+  "listed_count": 277,
+  "notifications": false,
+  "id": 1222257180,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523103840891990017/DB1xCC39_normal.jpeg",
+  "location": "San Fernando Valley, CA",
+  "time_zone": null,
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558376856341073921/f4I7EKMO.jpeg",
+  "id_str": "1222257180",
+  "favourites_count": 16,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": null,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "FFFFFF",
+  "is_translation_enabled": false,
+  "friends_count": 1063,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://cardenas.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/ufY7ZnH47U",
+          "display_url": "cardenas.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "I am proud to serve the San Fernando Valley in Congress. Follows or RT's do NOT indicate endorsement.",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/ufY7ZnH47U",
+  "created_at": "Tue Feb 26 16:12:35 +0000 2013",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222257180/1370373936",
+  "status": {
+    "geo": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "contributors": null,
+    "text": "A joyous and happy Easter and a wonderful Passover to all those celebrating!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "in_reply_to_user_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "id": 584727185673609218,
+    "id_str": "584727185673609218",
+    "created_at": "Sun Apr 05 14:39:59 +0000 2015",
+    "truncated": false,
+    "lang": "en",
+    "favorited": false,
+    "favorite_count": 2,
+    "in_reply_to_status_id": null,
+    "place": null,
+    "in_reply_to_user_id_str": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepCardenas",
+  "default_profile": false,
+  "profile_link_color": "0084B4",
+  "statuses_count": 3621,
+  "followers_count": 3941
+}

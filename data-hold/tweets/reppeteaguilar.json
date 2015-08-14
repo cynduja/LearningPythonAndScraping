@@ -1,0 +1,5457 @@
+[
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Thanks for having me! MT @MattGuilhem: Thanks to @RepPeteAguilar for stopping by the 91.9 @kvcr_tvfm studio.Good conversation &amp; perspective.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "583640842365227008",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "336776567",
+          "name": "Matt Guilhem",
+          "screen_name": "MattGuilhem",
+          "id": 336776567,
+          "indices": [
+            25,
+            37
+          ]
+        },
+        {
+          "id_str": "3018670151",
+          "name": "Pete Aguilar",
+          "screen_name": "RepPeteAguilar",
+          "id": 3018670151,
+          "indices": [
+            49,
+            64
+          ]
+        },
+        {
+          "id_str": "52219623",
+          "name": "KVCR Public Media",
+          "screen_name": "kvcr_tvfm",
+          "id": 52219623,
+          "indices": [
+            90,
+            100
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583640842365227008,
+    "created_at": "Thu Apr 02 14:43:14 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Join me Saturday at 9AM at Olive Avenue Market for Coffee w/ your Congressman. I want to hear about issues that matter to you &amp; your family!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "583303520302055424",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 583303520302055424,
+    "created_at": "Wed Apr 01 16:22:51 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today we honor the life &amp; work of C\u00e9sar Ch\u00e1vez, a titan in the Chicano Civil Rights Movement. My full statement here: http://t.co/Z3FbWwN4Vw",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 8,
+    "coordinates": null,
+    "id_str": "582952973279563776",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1OVAk0U",
+          "indices": [
+            122,
+            144
+          ],
+          "url": "http://t.co/Z3FbWwN4Vw",
+          "display_url": "1.usa.gov/1OVAk0U"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 582952973279563776,
+    "created_at": "Tue Mar 31 17:09:54 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @repjohnconyers: Hardworking families are the engine of economic growth. That's why we must achieve bigger paychecks &amp; better infrastruc\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 101,
+    "coordinates": null,
+    "id_str": "582900103796649985",
+    "lang": "en",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "contributors": null,
+      "text": "Hardworking families are the engine of economic growth. That's why we must achieve bigger paychecks &amp; better infrastructure for everyone.",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 101,
+      "coordinates": null,
+      "id_str": "582883622493024256",
+      "lang": "en",
+      "favorite_count": 61,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "138770045",
+        "id": 138770045
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 582883622493024256,
+      "created_at": "Tue Mar 31 12:34:19 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "138770045",
+          "name": "John Conyers",
+          "screen_name": "repjohnconyers",
+          "id": 138770045,
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 582900103796649985,
+    "created_at": "Tue Mar 31 13:39:49 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I'm proud to fight for the California LGBT community and take a stand against hate. Read more here: http://t.co/hy5Ii1gtp6",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 8,
+    "coordinates": null,
+    "id_str": "582600264030527488",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1GH9TbU",
+          "indices": [
+            100,
+            122
+          ],
+          "url": "http://t.co/hy5Ii1gtp6",
+          "display_url": "1.usa.gov/1GH9TbU"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 582600264030527488,
+    "created_at": "Mon Mar 30 17:48:21 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RedlandsNews: Weekend events: California Sage Festival among things to do in the Inland Empire http://t.co/C2VKqPUHXY",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "581538472910929920",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "contributors": null,
+      "text": "Weekend events: California Sage Festival among things to do in the Inland Empire http://t.co/C2VKqPUHXY",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 2,
+      "coordinates": null,
+      "id_str": "581485997772406784",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [
+          {
+            "expanded_url": "http://www.redlandsdailyfacts.com/article/20150326/FEATURES/150329594",
+            "indices": [
+              81,
+              103
+            ],
+            "url": "http://t.co/C2VKqPUHXY",
+            "display_url": "redlandsdailyfacts.com/article/201503\u2026"
+          }
+        ],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "48791466",
+        "id": 48791466
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 581485997772406784,
+      "created_at": "Fri Mar 27 16:00:40 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "48791466",
+          "name": "Redlands Daily Facts",
+          "screen_name": "RedlandsNews",
+          "id": 48791466,
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://www.redlandsdailyfacts.com/article/20150326/FEATURES/150329594",
+          "indices": [
+            99,
+            121
+          ],
+          "url": "http://t.co/C2VKqPUHXY",
+          "display_url": "redlandsdailyfacts.com/article/201503\u2026"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581538472910929920,
+    "created_at": "Fri Mar 27 19:29:11 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#ICYMI: Proud to co-sponsor #PaycheckFairnessAct to help end wage discrimination against women. #equalpayforequalwork http://t.co/wNMKAqktwc",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "581536047458172928",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/19lO6ZD",
+          "indices": [
+            118,
+            140
+          ],
+          "url": "http://t.co/wNMKAqktwc",
+          "display_url": "1.usa.gov/19lO6ZD"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        },
+        {
+          "indices": [
+            28,
+            48
+          ],
+          "text": "PaycheckFairnessAct"
+        },
+        {
+          "indices": [
+            96,
+            117
+          ],
+          "text": "equalpayforequalwork"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581536047458172928,
+    "created_at": "Fri Mar 27 19:19:32 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#GOPbudget dismantles Medicare &amp; slashes funding for CA students, while cutting taxes for corps &amp; richest Americans. http://t.co/8uymWJaN3V",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "581182288400125952",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1byie5H",
+          "indices": [
+            125,
+            147
+          ],
+          "url": "http://t.co/8uymWJaN3V",
+          "display_url": "1.usa.gov/1byie5H"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "text": "GOPbudget"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581182288400125952,
+    "created_at": "Thu Mar 26 19:53:50 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Proud to support #PaycheckFairnessAct Unconscionable that in 2015 we're debating whether women deserve = pay to men. http://t.co/wNMKAq2SEE",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "coordinates": null,
+    "id_str": "580836032649818112",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/19lO6ZD",
+          "indices": [
+            117,
+            139
+          ],
+          "url": "http://t.co/wNMKAq2SEE",
+          "display_url": "1.usa.gov/19lO6ZD"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            37
+          ],
+          "text": "PaycheckFairnessAct"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580836032649818112,
+    "created_at": "Wed Mar 25 20:57:56 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Very encouraging, but we still have more work to do. \"Inland Empire jobless numbers continue to drop\" http://t.co/HEqQk3Yvf6",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "coordinates": null,
+    "id_str": "580733091473432576",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1EFSlYQ",
+          "indices": [
+            102,
+            124
+          ],
+          "url": "http://t.co/HEqQk3Yvf6",
+          "display_url": "bit.ly/1EFSlYQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580733091473432576,
+    "created_at": "Wed Mar 25 14:08:53 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepTedDeutch: House #GOPbudget will make it harder to buy a home, harder to send a kid to college &amp; harder to enjoy a secure &amp; dignifie\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 204,
+    "coordinates": null,
+    "id_str": "580731841507942400",
+    "lang": "en",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "contributors": null,
+      "text": "House #GOPbudget will make it harder to buy a home, harder to send a kid to college &amp; harder to enjoy a secure &amp; dignified retirement.",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 204,
+      "coordinates": null,
+      "id_str": "580720296958803968",
+      "lang": "en",
+      "favorite_count": 80,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              6,
+              16
+            ],
+            "text": "GOPbudget"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "137794015",
+        "id": 137794015
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 580720296958803968,
+      "created_at": "Wed Mar 25 13:18:02 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "137794015",
+          "name": "Rep. Ted Deutch",
+          "screen_name": "RepTedDeutch",
+          "id": 137794015,
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            24,
+            34
+          ],
+          "text": "GOPbudget"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580731841507942400,
+    "created_at": "Wed Mar 25 14:03:55 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "We cannot balance the budget on the backs of students &amp; middle class. Proud to stand up for CA students. Read more: http://t.co/ggeh8jSBUW",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "580477043739127809",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1C8nlCf",
+          "indices": [
+            120,
+            142
+          ],
+          "url": "http://t.co/ggeh8jSBUW",
+          "display_url": "1.usa.gov/1C8nlCf"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580477043739127809,
+    "created_at": "Tue Mar 24 21:11:26 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Thank you to everyone who joined me on Saturday for 'Coffee with your Congressman.' Looking forward to the next one! http://t.co/B5rcbCzxCb",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "580055250435997696",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1ECEZg4",
+          "indices": [
+            117,
+            139
+          ],
+          "url": "http://t.co/B5rcbCzxCb",
+          "display_url": "1.usa.gov/1ECEZg4"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580055250435997696,
+    "created_at": "Mon Mar 23 17:15:23 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Join me on Saturday at Mitla Caf\u00e9 for 'Coffee with your Congressman' at 9AM. I want to hear about issues that matter to you and your family.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 6,
+    "coordinates": null,
+    "id_str": "578682847936045056",
+    "lang": "en",
+    "favorite_count": 4,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 578682847936045056,
+    "created_at": "Thu Mar 19 22:21:57 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "As we celebrate #WomensHistoryMonth , let's remember these courageous women and finish what they started. http://t.co/bVaBi4ZiTo",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "coordinates": null,
+    "id_str": "578676251377958912",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "578676250559934464",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/578676251377958912/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            106,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/CAfe--KUcAAX6UO.jpg",
+          "type": "photo",
+          "id": 578676250559934464,
+          "url": "http://t.co/bVaBi4ZiTo",
+          "media_url_https": "https://pbs.twimg.com/media/CAfe--KUcAAX6UO.jpg",
+          "display_url": "pic.twitter.com/bVaBi4ZiTo"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            16,
+            35
+          ],
+          "text": "WomensHistoryMonth"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 578676251377958912,
+    "created_at": "Thu Mar 19 21:55:44 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "578676250559934464",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/578676251377958912/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 400
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            106,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/CAfe--KUcAAX6UO.jpg",
+          "type": "photo",
+          "id": 578676250559934464,
+          "url": "http://t.co/bVaBi4ZiTo",
+          "media_url_https": "https://pbs.twimg.com/media/CAfe--KUcAAX6UO.jpg",
+          "display_url": "pic.twitter.com/bVaBi4ZiTo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Until our nation\u2019s daughters have the same opportunities as our sons, our work is not over. #WomensHistoryMonth http://t.co/8PggQbzDMJ",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "578317695415922689",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1CwPFl8",
+          "indices": [
+            112,
+            134
+          ],
+          "url": "http://t.co/8PggQbzDMJ",
+          "display_url": "1.usa.gov/1CwPFl8"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            92,
+            111
+          ],
+          "text": "WomensHistoryMonth"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 578317695415922689,
+    "created_at": "Wed Mar 18 22:10:57 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Agriculture has been a key part of the Inland Empire's economy for generations. Happy #NationalAgricultureDay !",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "578219504221732864",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            86,
+            109
+          ],
+          "text": "NationalAgricultureDay"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 578219504221732864,
+    "created_at": "Wed Mar 18 15:40:47 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "GOP budget revealed today would have devastating effects on the middle class &amp; undo progress we've made.My statement: http://t.co/t3sh40O0cK",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 8,
+    "coordinates": null,
+    "id_str": "577916155932897280",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/19wM4XI",
+          "indices": [
+            122,
+            144
+          ],
+          "url": "http://t.co/t3sh40O0cK",
+          "display_url": "1.usa.gov/19wM4XI"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 577916155932897280,
+    "created_at": "Tue Mar 17 19:35:23 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Sign up for our e-newsletter! Go to http://t.co/b0qC6iQSx5 to stay up to date with the work we're doing! http://t.co/deiAbFdEsk",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "coordinates": null,
+    "id_str": "577604291025870848",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://aguilar.house.gov",
+          "indices": [
+            36,
+            58
+          ],
+          "url": "http://t.co/b0qC6iQSx5",
+          "display_url": "aguilar.house.gov"
+        }
+      ],
+      "media": [
+        {
+          "id_str": "577604290405015552",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/577604291025870848/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 395
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 697
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 1189
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CAQQCrZVIAA4R0x.jpg",
+          "type": "photo",
+          "id": 577604290405015552,
+          "url": "http://t.co/deiAbFdEsk",
+          "media_url_https": "https://pbs.twimg.com/media/CAQQCrZVIAA4R0x.jpg",
+          "display_url": "pic.twitter.com/deiAbFdEsk"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 577604291025870848,
+    "created_at": "Mon Mar 16 22:56:09 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "577604290405015552",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/577604291025870848/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 395
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 697
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 1189
+            }
+          },
+          "indices": [
+            105,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CAQQCrZVIAA4R0x.jpg",
+          "type": "photo",
+          "id": 577604290405015552,
+          "url": "http://t.co/deiAbFdEsk",
+          "media_url_https": "https://pbs.twimg.com/media/CAQQCrZVIAA4R0x.jpg",
+          "display_url": "pic.twitter.com/deiAbFdEsk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#FlashbackFriday TY Lee (&amp; Jim) of Searing Industries for last week's tour! Great to see local manufacturers @ work! http://t.co/RdjUycsEUJ",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "576407359905525760",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "576407359356071936",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/576407359905525760/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 316
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 558
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 953
+            }
+          },
+          "indices": [
+            121,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/B__PcHxW8AAuR33.jpg",
+          "type": "photo",
+          "id": 576407359356071936,
+          "url": "http://t.co/RdjUycsEUJ",
+          "media_url_https": "https://pbs.twimg.com/media/B__PcHxW8AAuR33.jpg",
+          "display_url": "pic.twitter.com/RdjUycsEUJ"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "text": "FlashbackFriday"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 576407359905525760,
+    "created_at": "Fri Mar 13 15:39:58 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "576407359356071936",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/576407359905525760/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 316
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 558
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 953
+            }
+          },
+          "indices": [
+            121,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/B__PcHxW8AAuR33.jpg",
+          "type": "photo",
+          "id": 576407359356071936,
+          "url": "http://t.co/RdjUycsEUJ",
+          "media_url_https": "https://pbs.twimg.com/media/B__PcHxW8AAuR33.jpg",
+          "display_url": "pic.twitter.com/RdjUycsEUJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Keeping Sahray Barber in my thoughts and prayers. If you have any information please call @SanBernardinoPD immediately at 909-384-5742.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "576099558700294144",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "125773186",
+          "name": "San Bernardino PD",
+          "screen_name": "SanBernardinoPD",
+          "id": 125773186,
+          "indices": [
+            90,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 576099558700294144,
+    "created_at": "Thu Mar 12 19:16:52 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Don\u2019t forget to sign up for our e-newsletter to stay up to date with the work we\u2019re doing! http://t.co/b0qC6iQSx5",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "575316820682543104",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://aguilar.house.gov",
+          "indices": [
+            91,
+            113
+          ],
+          "url": "http://t.co/b0qC6iQSx5",
+          "display_url": "aguilar.house.gov"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 575316820682543104,
+    "created_at": "Tue Mar 10 15:26:33 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today we honor the women who have moved us forward &amp; to those who continue to blaze trails. Happy #InternationalWomensDay !",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "574724642138685441",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            102,
+            125
+          ],
+          "text": "InternationalWomensDay"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 574724642138685441,
+    "created_at": "Mon Mar 09 00:13:27 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Proud to stand w/ my colleagues in House &amp; Senate to support equality #SCOTUS #LoveCantWait http://t.co/spb6BHSvSh http://t.co/kWg65k2keM",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 9,
+    "coordinates": null,
+    "id_str": "574057489701994497",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1zWMIms",
+          "indices": [
+            96,
+            118
+          ],
+          "url": "http://t.co/spb6BHSvSh",
+          "display_url": "1.usa.gov/1zWMIms"
+        }
+      ],
+      "media": [
+        {
+          "id_str": "574057489060270080",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/574057489701994497/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 600
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 340
+            }
+          },
+          "indices": [
+            119,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_d2PqwXEAAwPSW.png",
+          "type": "photo",
+          "id": 574057489060270080,
+          "url": "http://t.co/kWg65k2keM",
+          "media_url_https": "https://pbs.twimg.com/media/B_d2PqwXEAAwPSW.png",
+          "display_url": "pic.twitter.com/kWg65k2keM"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            74,
+            81
+          ],
+          "text": "SCOTUS"
+        },
+        {
+          "indices": [
+            82,
+            95
+          ],
+          "text": "LoveCantWait"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 574057489701994497,
+    "created_at": "Sat Mar 07 04:02:25 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "574057489060270080",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/574057489701994497/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 640
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 600
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 340
+            }
+          },
+          "indices": [
+            119,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/B_d2PqwXEAAwPSW.png",
+          "type": "photo",
+          "id": 574057489060270080,
+          "url": "http://t.co/kWg65k2keM",
+          "media_url_https": "https://pbs.twimg.com/media/B_d2PqwXEAAwPSW.png",
+          "display_url": "pic.twitter.com/kWg65k2keM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Great progress, but we have more work to do. RT @latimes : California adds 67,300 jobs in January http://t.co/gAailVxpkb",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 5,
+    "coordinates": null,
+    "id_str": "573929008104148993",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "16664681",
+          "name": "Los Angeles Times",
+          "screen_name": "latimes",
+          "id": 16664681,
+          "indices": [
+            48,
+            56
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://lat.ms/1EvKqk6",
+          "indices": [
+            98,
+            120
+          ],
+          "url": "http://t.co/gAailVxpkb",
+          "display_url": "lat.ms/1EvKqk6"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573929008104148993,
+    "created_at": "Fri Mar 06 19:31:53 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepDanKildee: Bigger paychecks &amp; better infrastructure. Let's put Americans back to work building roads &amp; bridges our country needs! #M\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 131,
+    "coordinates": null,
+    "id_str": "573926887778566144",
+    "lang": "en",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "contributors": null,
+      "text": "Bigger paychecks &amp; better infrastructure. Let's put Americans back to work building roads &amp; bridges our country needs! #MiddleClassFirst",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 131,
+      "coordinates": null,
+      "id_str": "573838678650306560",
+      "lang": "en",
+      "favorite_count": 97,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              127,
+              144
+            ],
+            "text": "MiddleClassFirst"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "1045110018",
+        "id": 1045110018
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 573838678650306560,
+      "created_at": "Fri Mar 06 13:32:57 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1045110018",
+          "name": "Rep. Dan Kildee",
+          "screen_name": "RepDanKildee",
+          "id": 1045110018,
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            145,
+            148
+          ],
+          "text": "MiddleClassFirst"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573926887778566144,
+    "created_at": "Fri Mar 06 19:23:27 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Last month, our national economy added 295,000 jobs &amp; lowered the unemployment rate to 5.5%. Read my statement here: http://t.co/54DvaYc2Fz",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "573925074249641984",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1Emk4CF",
+          "indices": [
+            121,
+            143
+          ],
+          "url": "http://t.co/54DvaYc2Fz",
+          "display_url": "1.usa.gov/1Emk4CF"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573925074249641984,
+    "created_at": "Fri Mar 06 19:16:15 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This week marks my first 60 days in office. Read about it here: http://t.co/tveVtiCq1x",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "573613422299987969",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1AMstbd",
+          "indices": [
+            64,
+            86
+          ],
+          "url": "http://t.co/tveVtiCq1x",
+          "display_url": "1.usa.gov/1AMstbd"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573613422299987969,
+    "created_at": "Thu Mar 05 22:37:51 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepSteveIsrael: Strong unity of @HouseDemocrats pushed full funding of @DHSgov across finish line. Time for @HouseGOP to stop the manuf\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 165,
+    "coordinates": null,
+    "id_str": "573231591461416960",
+    "lang": "en",
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": "Strong unity of @HouseDemocrats pushed full funding of @DHSgov across finish line. Time for @HouseGOP to stop the manufactured crises!",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 165,
+      "coordinates": null,
+      "id_str": "573117208089513986",
+      "lang": "en",
+      "favorite_count": 96,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "43963249",
+            "name": "House Democrats",
+            "screen_name": "HouseDemocrats",
+            "id": 43963249,
+            "indices": [
+              16,
+              31
+            ]
+          },
+          {
+            "id_str": "15647676",
+            "name": "Homeland Security",
+            "screen_name": "DHSgov",
+            "id": 15647676,
+            "indices": [
+              55,
+              62
+            ]
+          },
+          {
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP",
+            "id": 15207668,
+            "indices": [
+              92,
+              101
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "hashtags": []
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "20002401",
+        "id": 20002401
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 573117208089513986,
+      "created_at": "Wed Mar 04 13:46:05 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "20002401",
+          "name": "Steve Israel",
+          "screen_name": "RepSteveIsrael",
+          "id": 20002401,
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "id_str": "43963249",
+          "name": "House Democrats",
+          "screen_name": "HouseDemocrats",
+          "id": 43963249,
+          "indices": [
+            36,
+            51
+          ]
+        },
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            75,
+            82
+          ]
+        },
+        {
+          "id_str": "15207668",
+          "name": "House Republicans",
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "indices": [
+            112,
+            121
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573231591461416960,
+    "created_at": "Wed Mar 04 21:20:36 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Congress must stop governing by crisis @ expense of middle-class families. See my remarks on the House floor here: http://t.co/iZI273hcAH",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 6,
+    "coordinates": null,
+    "id_str": "573210791710724096",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1AK56yX",
+          "indices": [
+            115,
+            137
+          ],
+          "url": "http://t.co/iZI273hcAH",
+          "display_url": "1.usa.gov/1AK56yX"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573210791710724096,
+    "created_at": "Wed Mar 04 19:57:57 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today we averted a national security crisis &amp; fully funded @DHSgov through bipartisan legislation. My statement here: http://t.co/rH0VsQ8DoW",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "572870085993345025",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            63,
+            70
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1NdvwD6",
+          "indices": [
+            122,
+            144
+          ],
+          "url": "http://t.co/rH0VsQ8DoW",
+          "display_url": "1.usa.gov/1NdvwD6"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572870085993345025,
+    "created_at": "Tue Mar 03 21:24:06 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Make sure you sign up for our e-newsletter to stay up to date with the work we\u2019re doing! https://t.co/0opaVX2pPb",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "572860087808618496",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://aguilar.house.gov/",
+          "indices": [
+            89,
+            112
+          ],
+          "url": "https://t.co/0opaVX2pPb",
+          "display_url": "aguilar.house.gov"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572860087808618496,
+    "created_at": "Tue Mar 03 20:44:22 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Threatening a shutdown is no way to govern. @SpeakerBoehner \u2013 bring us a clean long-term bill to fund DHS! #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "572499123708035072",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            44,
+            59
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            131
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572499123708035072,
+    "created_at": "Mon Mar 02 20:50:02 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepMarkTakai: @SpeakerBoehner, let us vote on clean long-term bill to fund DHS. Every House Dem supports! #DontShutDownOurSecurity http\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 118,
+    "coordinates": null,
+    "id_str": "572454562658967553",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "contributors": null,
+      "text": "@SpeakerBoehner, let us vote on clean long-term bill to fund DHS. Every House Dem supports! #DontShutDownOurSecurity http://t.co/ZkI3dzv6zh",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 118,
+      "coordinates": null,
+      "id_str": "572388715047329794",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 62,
+      "in_reply_to_user_id_str": "7713202",
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "7713202",
+            "name": "Speaker John Boehner",
+            "screen_name": "SpeakerBoehner",
+            "id": 7713202,
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "572388710039207937",
+            "expanded_url": "http://twitter.com/RepMarkTakai/status/572388715047329794/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+            "type": "photo",
+            "id": 572388710039207937,
+            "url": "http://t.co/ZkI3dzv6zh",
+            "media_url_https": "https://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+            "display_url": "pic.twitter.com/ZkI3dzv6zh"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              92,
+              116
+            ],
+            "text": "DontShutDownOurSecurity"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "2975350155",
+        "id": 2975350155
+      },
+      "in_reply_to_user_id": 7713202,
+      "in_reply_to_screen_name": "SpeakerBoehner",
+      "id": 572388715047329794,
+      "created_at": "Mon Mar 02 13:31:18 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "572388710039207937",
+            "expanded_url": "http://twitter.com/RepMarkTakai/status/572388715047329794/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+            "type": "photo",
+            "id": 572388710039207937,
+            "url": "http://t.co/ZkI3dzv6zh",
+            "media_url_https": "https://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+            "display_url": "pic.twitter.com/ZkI3dzv6zh"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2975350155",
+          "name": "Mark Takai",
+          "screen_name": "RepMarkTakai",
+          "id": 2975350155,
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            18,
+            33
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "572388715047329794",
+          "source_user_id_str": "2975350155",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 572388715047329794,
+          "id": 572388710039207937,
+          "url": "http://t.co/ZkI3dzv6zh",
+          "media_url_https": "https://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+          "id_str": "572388710039207937",
+          "expanded_url": "http://twitter.com/RepMarkTakai/status/572388715047329794/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+          "source_user_id": 2975350155,
+          "display_url": "pic.twitter.com/ZkI3dzv6zh"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            110,
+            134
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572454562658967553,
+    "created_at": "Mon Mar 02 17:52:58 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "572388715047329794",
+          "source_user_id_str": "2975350155",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 572388715047329794,
+          "id": 572388710039207937,
+          "url": "http://t.co/ZkI3dzv6zh",
+          "media_url_https": "https://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+          "id_str": "572388710039207937",
+          "expanded_url": "http://twitter.com/RepMarkTakai/status/572388715047329794/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B_GIf8dUwAEpz8b.jpg",
+          "source_user_id": 2975350155,
+          "display_url": "pic.twitter.com/ZkI3dzv6zh"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "This month we celebrate Women\u2019s History Month. Read my statement here: http://t.co/DdLu1tOXpN",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "572450930374905857",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1M1EuQw",
+          "indices": [
+            71,
+            93
+          ],
+          "url": "http://t.co/DdLu1tOXpN",
+          "display_url": "1.usa.gov/1M1EuQw"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572450930374905857,
+    "created_at": "Mon Mar 02 17:38:32 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @NormaJTorres: w/ @RepPeteAguilar on the House floor now.  Doing whats right for the #InlandEmpire and supporting long-term funding for \u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 6,
+    "coordinates": null,
+    "id_str": "571436149669036033",
+    "lang": "en",
+    "retweeted_status": {
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "contributors": null,
+      "text": "w/ @RepPeteAguilar on the House floor now.  Doing whats right for the #InlandEmpire and supporting long-term funding for #DHS",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 6,
+      "coordinates": null,
+      "id_str": "571433250603835392",
+      "lang": "en",
+      "favorite_count": 2,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "3018670151",
+            "name": "Pete Aguilar",
+            "screen_name": "RepPeteAguilar",
+            "id": 3018670151,
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "indices": [
+              70,
+              83
+            ],
+            "text": "InlandEmpire"
+          },
+          {
+            "indices": [
+              121,
+              125
+            ],
+            "text": "DHS"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "236279233",
+        "id": 236279233
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 571433250603835392,
+      "created_at": "Fri Feb 27 22:14:38 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "236279233",
+          "name": "Norma Torres",
+          "screen_name": "NormaJTorres",
+          "id": 236279233,
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "id_str": "3018670151",
+          "name": "Pete Aguilar",
+          "screen_name": "RepPeteAguilar",
+          "id": 3018670151,
+          "indices": [
+            21,
+            36
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            88,
+            101
+          ],
+          "text": "InlandEmpire"
+        },
+        {
+          "indices": [
+            139,
+            140
+          ],
+          "text": "DHS"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571436149669036033,
+    "created_at": "Fri Feb 27 22:26:09 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#FlashbackFriday :Yesterday\u2019s @HeraldNews1 : \u201cCongressman holds events to discuss job creation, economic growth\u201d",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "571373310661009408",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1491304855",
+          "name": "Fontana Herald News",
+          "screen_name": "HeraldNews1",
+          "id": 1491304855,
+          "indices": [
+            30,
+            42
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "text": "FlashbackFriday"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571373310661009408,
+    "created_at": "Fri Feb 27 18:16:27 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "We are 24 hours from a @DHSgov shutdown. This was 100% avoidable &amp; is absolutely unacceptable. Read more here: http://t.co/PibMoMvmta",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 4,
+    "coordinates": null,
+    "id_str": "571097675631874048",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            23,
+            30
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1zjvHm2",
+          "indices": [
+            115,
+            137
+          ],
+          "url": "http://t.co/PibMoMvmta",
+          "display_url": "1.usa.gov/1zjvHm2"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571097675631874048,
+    "created_at": "Fri Feb 27 00:01:11 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Proud to have led the call today for @SpeakerBoehner to bring a clean @DHSgov funding bill to a vote. Read it here: http://t.co/MgtBNivagv",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "571093117623001088",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            37,
+            52
+          ]
+        },
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            70,
+            77
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1zjbXik",
+          "indices": [
+            116,
+            138
+          ],
+          "url": "http://t.co/MgtBNivagv",
+          "display_url": "bit.ly/1zjbXik"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571093117623001088,
+    "created_at": "Thu Feb 26 23:43:04 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "W/ less than 48 hours until @DHSgov shuts down, it's time for @SpeakerBoehner to bring us a clean bill. My statement: http://t.co/aYqowqeYwC",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "570964108826316800",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            28,
+            35
+          ]
+        },
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            62,
+            77
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1zhD1yu",
+          "indices": [
+            118,
+            140
+          ],
+          "url": "http://t.co/aYqowqeYwC",
+          "display_url": "1.usa.gov/1zhD1yu"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570964108826316800,
+    "created_at": "Thu Feb 26 15:10:26 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Check out my official page &amp; sign up for our e-newsletter to stay in touch with the work we\u2019re doing. https://t.co/0opaVXk1dL",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "570657604696969216",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://aguilar.house.gov/",
+          "indices": [
+            106,
+            129
+          ],
+          "url": "https://t.co/0opaVXk1dL",
+          "display_url": "aguilar.house.gov"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570657604696969216,
+    "created_at": "Wed Feb 25 18:52:29 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "In 3 days @DHSgov will shutdown unless Congress acts. Time for House Rs to join Senate Rs and support a clean bill. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "570636340565553152",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            10,
+            17
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            116,
+            140
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570636340565553152,
+    "created_at": "Wed Feb 25 17:28:00 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepVeasey: The clock is ticking. I urge my GOP colleagues, stop holding our national security hostage. #DontShutDownOurSecurity http://\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 299,
+    "coordinates": null,
+    "id_str": "570636207593562113",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": "The clock is ticking. I urge my GOP colleagues, stop holding our national security hostage. #DontShutDownOurSecurity http://t.co/Gcu2H6TzPD",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 299,
+      "coordinates": null,
+      "id_str": "570575279808225280",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 187,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "570575279376228352",
+            "expanded_url": "http://twitter.com/RepVeasey/status/570575279808225280/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+            "type": "photo",
+            "id": 570575279376228352,
+            "url": "http://t.co/Gcu2H6TzPD",
+            "media_url_https": "https://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+            "display_url": "pic.twitter.com/Gcu2H6TzPD"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              92,
+              116
+            ],
+            "text": "DontShutDownOurSecurity"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "1074129612",
+        "id": 1074129612
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 570575279808225280,
+      "created_at": "Wed Feb 25 13:25:22 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "570575279376228352",
+            "expanded_url": "http://twitter.com/RepVeasey/status/570575279808225280/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+            "type": "photo",
+            "id": 570575279376228352,
+            "url": "http://t.co/Gcu2H6TzPD",
+            "media_url_https": "https://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+            "display_url": "pic.twitter.com/Gcu2H6TzPD"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1074129612",
+          "name": "Rep. Marc Veasey",
+          "screen_name": "RepVeasey",
+          "id": 1074129612,
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "570575279808225280",
+          "source_user_id_str": "1074129612",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 570575279808225280,
+          "id": 570575279376228352,
+          "url": "http://t.co/Gcu2H6TzPD",
+          "media_url_https": "https://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+          "id_str": "570575279376228352",
+          "expanded_url": "http://twitter.com/RepVeasey/status/570575279808225280/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+          "source_user_id": 1074129612,
+          "display_url": "pic.twitter.com/Gcu2H6TzPD"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            131
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570636207593562113,
+    "created_at": "Wed Feb 25 17:27:28 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "570575279808225280",
+          "source_user_id_str": "1074129612",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 570575279808225280,
+          "id": 570575279376228352,
+          "url": "http://t.co/Gcu2H6TzPD",
+          "media_url_https": "https://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+          "id_str": "570575279376228352",
+          "expanded_url": "http://twitter.com/RepVeasey/status/570575279808225280/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-sXMYzW4AAnuYr.jpg",
+          "source_user_id": 1074129612,
+          "display_url": "pic.twitter.com/Gcu2H6TzPD"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepDeSaulnier: RT if you agree: @HouseGOP needs to wake up! America's security is not a political hostage. #DontShutDownOurSecurity htt\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 152,
+    "coordinates": null,
+    "id_str": "570303097836335105",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "contributors": null,
+      "text": "RT if you agree: @HouseGOP needs to wake up! America's security is not a political hostage. #DontShutDownOurSecurity http://t.co/wOWYxRWw8P",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 152,
+      "coordinates": null,
+      "id_str": "570212832119291904",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 62,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP",
+            "id": 15207668,
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "570212827446665216",
+            "expanded_url": "http://twitter.com/RepDeSaulnier/status/570212832119291904/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+            "type": "photo",
+            "id": 570212827446665216,
+            "url": "http://t.co/wOWYxRWw8P",
+            "media_url_https": "https://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+            "display_url": "pic.twitter.com/wOWYxRWw8P"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              92,
+              116
+            ],
+            "text": "DontShutDownOurSecurity"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "2968007206",
+        "id": 2968007206
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 570212832119291904,
+      "created_at": "Tue Feb 24 13:25:07 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "570212827446665216",
+            "expanded_url": "http://twitter.com/RepDeSaulnier/status/570212832119291904/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              117,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+            "type": "photo",
+            "id": 570212827446665216,
+            "url": "http://t.co/wOWYxRWw8P",
+            "media_url_https": "https://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+            "display_url": "pic.twitter.com/wOWYxRWw8P"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2968007206",
+          "name": "Mark DeSaulnier",
+          "screen_name": "RepDeSaulnier",
+          "id": 2968007206,
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "id_str": "15207668",
+          "name": "House Republicans",
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "570212832119291904",
+          "source_user_id_str": "2968007206",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 570212832119291904,
+          "id": 570212827446665216,
+          "url": "http://t.co/wOWYxRWw8P",
+          "media_url_https": "https://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+          "id_str": "570212827446665216",
+          "expanded_url": "http://twitter.com/RepDeSaulnier/status/570212832119291904/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+          "source_user_id": 2968007206,
+          "display_url": "pic.twitter.com/wOWYxRWw8P"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            135
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570303097836335105,
+    "created_at": "Tue Feb 24 19:23:48 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "570212832119291904",
+          "source_user_id_str": "2968007206",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 570212832119291904,
+          "id": 570212827446665216,
+          "url": "http://t.co/wOWYxRWw8P",
+          "media_url_https": "https://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+          "id_str": "570212827446665216",
+          "expanded_url": "http://twitter.com/RepDeSaulnier/status/570212832119291904/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-nNi6JUYAAr19L.jpg",
+          "source_user_id": 2968007206,
+          "display_url": "pic.twitter.com/wOWYxRWw8P"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Every House Democrat is cosponsoring clean legislation to fund @DHSgov. The votes are there. Let's get it done. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 7,
+    "coordinates": null,
+    "id_str": "570243984280461313",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            63,
+            70
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            112,
+            136
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 570243984280461313,
+    "created_at": "Tue Feb 24 15:28:55 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#ICYMI : My editorial from last week in @sbsun @ivdailybulletin @Redlandsnews \u2013 read it here: http://t.co/VnnL5mSMPD",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "569980377760174080",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "36726529",
+          "name": "The Sun",
+          "screen_name": "sbsun",
+          "id": 36726529,
+          "indices": [
+            40,
+            46
+          ]
+        },
+        {
+          "id_str": "36739057",
+          "name": "Daily Bulletin",
+          "screen_name": "ivdailybulletin",
+          "id": 36739057,
+          "indices": [
+            47,
+            63
+          ]
+        },
+        {
+          "id_str": "48791466",
+          "name": "Redlands Daily Facts",
+          "screen_name": "RedlandsNews",
+          "id": 48791466,
+          "indices": [
+            64,
+            77
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1AVSPyf",
+          "indices": [
+            94,
+            116
+          ],
+          "url": "http://t.co/VnnL5mSMPD",
+          "display_url": "bit.ly/1AVSPyf"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 569980377760174080,
+    "created_at": "Mon Feb 23 22:01:26 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": ".@RepRubenGallego &amp; I sent @SpeakerBoehner a letter last week calling for a clean @DHSgov funding bill. We have 5 days. Let\u2019s get it done.",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "569961477358145536",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2966570782",
+          "name": "Ruben Gallego",
+          "screen_name": "RepRubenGallego",
+          "id": 2966570782,
+          "indices": [
+            1,
+            17
+          ]
+        },
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            31,
+            46
+          ]
+        },
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            86,
+            93
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 569961477358145536,
+    "created_at": "Mon Feb 23 20:46:20 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepDuckworth: Alarming that GOP is playing games w/ national  security funding during such dangerous times.#DontShutDownOurSecurity htt\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 144,
+    "coordinates": null,
+    "id_str": "569944901762330626",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": "Alarming that GOP is playing games w/ national  security funding during such dangerous times.#DontShutDownOurSecurity http://t.co/BwCe0fmSHM",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 144,
+      "coordinates": null,
+      "id_str": "569860431940063232",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 60,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "569860431359922176",
+            "expanded_url": "http://twitter.com/RepDuckworth/status/569860431940063232/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+            "type": "photo",
+            "id": 569860431359922176,
+            "url": "http://t.co/BwCe0fmSHM",
+            "media_url_https": "https://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+            "display_url": "pic.twitter.com/BwCe0fmSHM"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              93,
+              117
+            ],
+            "text": "DontShutDownOurSecurity"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "1058520120",
+        "id": 1058520120
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 569860431940063232,
+      "created_at": "Mon Feb 23 14:04:49 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "569860431359922176",
+            "expanded_url": "http://twitter.com/RepDuckworth/status/569860431940063232/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+            "type": "photo",
+            "id": 569860431359922176,
+            "url": "http://t.co/BwCe0fmSHM",
+            "media_url_https": "https://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+            "display_url": "pic.twitter.com/BwCe0fmSHM"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1058520120",
+          "name": "Tammy Duckworth",
+          "screen_name": "RepDuckworth",
+          "id": 1058520120,
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "569860431940063232",
+          "source_user_id_str": "1058520120",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 569860431940063232,
+          "id": 569860431359922176,
+          "url": "http://t.co/BwCe0fmSHM",
+          "media_url_https": "https://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+          "id_str": "569860431359922176",
+          "expanded_url": "http://twitter.com/RepDuckworth/status/569860431940063232/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+          "source_user_id": 1058520120,
+          "display_url": "pic.twitter.com/BwCe0fmSHM"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            135
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 569944901762330626,
+    "created_at": "Mon Feb 23 19:40:28 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "569860431940063232",
+          "source_user_id_str": "1058520120",
+          "indices": [
+            139,
+            140
+          ],
+          "source_status_id": 569860431940063232,
+          "id": 569860431359922176,
+          "url": "http://t.co/BwCe0fmSHM",
+          "media_url_https": "https://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+          "id_str": "569860431359922176",
+          "expanded_url": "http://twitter.com/RepDuckworth/status/569860431940063232/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B-iNCwbCUAAM5Iz.jpg",
+          "source_user_id": 1058520120,
+          "display_url": "pic.twitter.com/BwCe0fmSHM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "If Congress doesn't act, @DHSgov will shutdown in 5 days. We can't afford to gamble w/ our national security. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "569943354429059072",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            25,
+            32
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            110,
+            134
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 569943354429059072,
+    "created_at": "Mon Feb 23 19:34:19 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I applaud ILWU &amp; PMA for working together to reach an agreement. Read my full statement here. http://t.co/7oyC3R8Hpa",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "569265456701435904",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/17G9at8",
+          "indices": [
+            98,
+            120
+          ],
+          "url": "http://t.co/7oyC3R8Hpa",
+          "display_url": "1.usa.gov/17G9at8"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 569265456701435904,
+    "created_at": "Sat Feb 21 22:40:35 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "\u201cSan Bernardino County voices will be heard in D.C.\u201d If you haven\u2019t yet, read it here: http://t.co/VnnL5mSMPD",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "568924216868921345",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1AVSPyf",
+          "indices": [
+            87,
+            109
+          ],
+          "url": "http://t.co/VnnL5mSMPD",
+          "display_url": "bit.ly/1AVSPyf"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568924216868921345,
+    "created_at": "Sat Feb 21 00:04:38 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Great week meeting w/ community leaders &amp; biz owners to discuss job creation in the Inland Empire.Read about it here: http://t.co/LU2T0pQrQc",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "568576433494364160",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1AX7YxJ",
+          "indices": [
+            122,
+            144
+          ],
+          "url": "http://t.co/LU2T0pQrQc",
+          "display_url": "bit.ly/1AX7YxJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568576433494364160,
+    "created_at": "Fri Feb 20 01:02:40 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": ".@RepRubenGallego &amp; I joined 119 colleagues to send @SpeakerBoehner a letter, calling for a clean DHS funding bill http://t.co/2V1rhVutyQ",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "568499472965230592",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2966570782",
+          "name": "Ruben Gallego",
+          "screen_name": "RepRubenGallego",
+          "id": 2966570782,
+          "indices": [
+            1,
+            17
+          ]
+        },
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            56,
+            71
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1AX7Z4E",
+          "indices": [
+            119,
+            141
+          ],
+          "url": "http://t.co/2V1rhVutyQ",
+          "display_url": "1.usa.gov/1AX7Z4E"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568499472965230592,
+    "created_at": "Thu Feb 19 19:56:51 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "TY Steve &amp; Owen for giving me a tour of Ritual Brewing Co. If you haven\u2019t had a chance yet, make sure you stop by! http://t.co/F48sWFSOou",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568492027983372289",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "568492026946019328",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568492027983372289/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            119,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-OwfIvCYAAZbYx.jpg",
+          "type": "photo",
+          "id": 568492026946019328,
+          "url": "http://t.co/F48sWFSOou",
+          "media_url_https": "https://pbs.twimg.com/media/B-OwfIvCYAAZbYx.jpg",
+          "display_url": "pic.twitter.com/F48sWFSOou"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568492027983372289,
+    "created_at": "Thu Feb 19 19:27:16 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "568492026946019328",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568492027983372289/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            119,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-OwfIvCYAAZbYx.jpg",
+          "type": "photo",
+          "id": 568492026946019328,
+          "url": "http://t.co/F48sWFSOou",
+          "media_url_https": "https://pbs.twimg.com/media/B-OwfIvCYAAZbYx.jpg",
+          "display_url": "pic.twitter.com/F48sWFSOou"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "The clock is ticking. @HouseGOP must end the political games &amp; fund DHS #DontShutDownOurSecurity http://t.co/3OfAGhGSP7",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 145,
+    "coordinates": null,
+    "id_str": "568405118145716224",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 62,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15207668",
+          "name": "House Republicans",
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "indices": [
+            22,
+            31
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "568405117334863872",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568405118145716224/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "indices": [
+            101,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-NhcVNCQAAENf4.jpg",
+          "type": "photo",
+          "id": 568405117334863872,
+          "url": "http://t.co/3OfAGhGSP7",
+          "media_url_https": "https://pbs.twimg.com/media/B-NhcVNCQAAENf4.jpg",
+          "display_url": "pic.twitter.com/3OfAGhGSP7"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            76,
+            100
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568405118145716224,
+    "created_at": "Thu Feb 19 13:41:55 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "568405117334863872",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568405118145716224/photo/1",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "indices": [
+            101,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-NhcVNCQAAENf4.jpg",
+          "type": "photo",
+          "id": 568405117334863872,
+          "url": "http://t.co/3OfAGhGSP7",
+          "media_url_https": "https://pbs.twimg.com/media/B-NhcVNCQAAENf4.jpg",
+          "display_url": "pic.twitter.com/3OfAGhGSP7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "#ICYMI Yesterday I was proud to stand w/ community members to speak on immigration reform &amp; ruling in TX.Take a look: http://t.co/jjNFicajVe",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "568295857147285504",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/1E7rb0t",
+          "indices": [
+            122,
+            144
+          ],
+          "url": "http://t.co/jjNFicajVe",
+          "display_url": "bit.ly/1E7rb0t"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568295857147285504,
+    "created_at": "Thu Feb 19 06:27:45 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Great conversations on job creation in Rancho Cucamonga today with local business &amp; community leaders. http://t.co/seddxvvXrK",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "568208059488727040",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "568208058569224192",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568208059488727040/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            107,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-KuOAGIcAA9eoQ.jpg",
+          "type": "photo",
+          "id": 568208058569224192,
+          "url": "http://t.co/seddxvvXrK",
+          "media_url_https": "https://pbs.twimg.com/media/B-KuOAGIcAA9eoQ.jpg",
+          "display_url": "pic.twitter.com/seddxvvXrK"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568208059488727040,
+    "created_at": "Thu Feb 19 00:38:52 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "568208058569224192",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568208059488727040/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            107,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-KuOAGIcAA9eoQ.jpg",
+          "type": "photo",
+          "id": 568208058569224192,
+          "url": "http://t.co/seddxvvXrK",
+          "media_url_https": "https://pbs.twimg.com/media/B-KuOAGIcAA9eoQ.jpg",
+          "display_url": "pic.twitter.com/seddxvvXrK"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "TY to local biz owners, labor &amp; community leaders for joining me yesterday to discuss job creation in San Bernardino. http://t.co/syDNhV9uym",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "568100647305945088",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "568100646633865216",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568100647305945088/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            122,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-JMhzdIAAAm3pe.jpg",
+          "type": "photo",
+          "id": 568100646633865216,
+          "url": "http://t.co/syDNhV9uym",
+          "media_url_https": "https://pbs.twimg.com/media/B-JMhzdIAAAm3pe.jpg",
+          "display_url": "pic.twitter.com/syDNhV9uym"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568100647305945088,
+    "created_at": "Wed Feb 18 17:32:03 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "568100646633865216",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/568100647305945088/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 682
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 399
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 226
+            }
+          },
+          "indices": [
+            122,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/B-JMhzdIAAAm3pe.jpg",
+          "type": "photo",
+          "id": 568100646633865216,
+          "url": "http://t.co/syDNhV9uym",
+          "media_url_https": "https://pbs.twimg.com/media/B-JMhzdIAAAm3pe.jpg",
+          "display_url": "pic.twitter.com/syDNhV9uym"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "The security of our nation is more important than winning political points. 11 days-- let's pass a clean bill. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "567782311731920897",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            135
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567782311731920897,
+    "created_at": "Tue Feb 17 20:27:06 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Every House Dem is cosponsoring a clean bill to fund DHS-- it will pass if GOP would only allow. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "567750289697304576",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            121
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567750289697304576,
+    "created_at": "Tue Feb 17 18:19:52 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Proud to stand w/ my colleagues in support of keeping families together &amp; confronting our broken immigration system. http://t.co/vTcTEAAJB7",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "566322245002616832",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "id_str": "566322244507271168",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/566322245002616832/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 887
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 519
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 294
+            }
+          },
+          "indices": [
+            121,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9v7FLRCAAAYW60.jpg",
+          "type": "photo",
+          "id": 566322244507271168,
+          "url": "http://t.co/vTcTEAAJB7",
+          "media_url_https": "https://pbs.twimg.com/media/B9v7FLRCAAAYW60.jpg",
+          "display_url": "pic.twitter.com/vTcTEAAJB7"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 566322245002616832,
+    "created_at": "Fri Feb 13 19:45:19 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "566322244507271168",
+          "expanded_url": "http://twitter.com/RepPeteAguilar/status/566322245002616832/photo/1",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 887
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 519
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 294
+            }
+          },
+          "indices": [
+            121,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9v7FLRCAAAYW60.jpg",
+          "type": "photo",
+          "id": 566322244507271168,
+          "url": "http://t.co/vTcTEAAJB7",
+          "media_url_https": "https://pbs.twimg.com/media/B9v7FLRCAAAYW60.jpg",
+          "display_url": "pic.twitter.com/vTcTEAAJB7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @RepCuellar: .@HouseGOP needs to stop playing politics &amp; pass a clean bill to fund @DHSgov! #DontShutDownOurSecurity http://t.co/j0Mh21R\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 173,
+    "coordinates": null,
+    "id_str": "566290254945353729",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "contributors": null,
+      "text": ".@HouseGOP needs to stop playing politics &amp; pass a clean bill to fund @DHSgov! #DontShutDownOurSecurity http://t.co/j0Mh21RbpZ",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 173,
+      "coordinates": null,
+      "id_str": "566227659857080321",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 53,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "15207668",
+            "name": "House Republicans",
+            "screen_name": "HouseGOP",
+            "id": 15207668,
+            "indices": [
+              1,
+              10
+            ]
+          },
+          {
+            "id_str": "15647676",
+            "name": "Homeland Security",
+            "screen_name": "DHSgov",
+            "id": 15647676,
+            "indices": [
+              74,
+              81
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "media": [
+          {
+            "id_str": "566227659365961728",
+            "expanded_url": "http://twitter.com/RepCuellar/status/566227659857080321/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              108,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+            "type": "photo",
+            "id": 566227659365961728,
+            "url": "http://t.co/j0Mh21RbpZ",
+            "media_url_https": "https://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+            "display_url": "pic.twitter.com/j0Mh21RbpZ"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              83,
+              107
+            ],
+            "text": "DontShutDownOurSecurity"
+          }
+        ]
+      },
+      "retweeted": false,
+      "user": {
+        "id_str": "210926192",
+        "id": 210926192
+      },
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 566227659857080321,
+      "created_at": "Fri Feb 13 13:29:28 +0000 2015",
+      "truncated": false,
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "566227659365961728",
+            "expanded_url": "http://twitter.com/RepCuellar/status/566227659857080321/photo/1",
+            "sizes": {
+              "small": {
+                "resize": "fit",
+                "w": 340,
+                "h": 170
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 600,
+                "h": 300
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "large": {
+                "resize": "fit",
+                "w": 1000,
+                "h": 500
+              }
+            },
+            "indices": [
+              108,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+            "type": "photo",
+            "id": 566227659365961728,
+            "url": "http://t.co/j0Mh21RbpZ",
+            "media_url_https": "https://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+            "display_url": "pic.twitter.com/j0Mh21RbpZ"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "210926192",
+          "name": "Rep. Henry Cuellar",
+          "screen_name": "RepCuellar",
+          "id": 210926192,
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "id_str": "15207668",
+          "name": "House Republicans",
+          "screen_name": "HouseGOP",
+          "id": 15207668,
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            90,
+            97
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "566227659857080321",
+          "source_user_id_str": "210926192",
+          "indices": [
+            124,
+            144
+          ],
+          "source_status_id": 566227659857080321,
+          "id": 566227659365961728,
+          "url": "http://t.co/j0Mh21RbpZ",
+          "media_url_https": "https://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+          "id_str": "566227659365961728",
+          "expanded_url": "http://twitter.com/RepCuellar/status/566227659857080321/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+          "source_user_id": 210926192,
+          "display_url": "pic.twitter.com/j0Mh21RbpZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            123
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 566290254945353729,
+    "created_at": "Fri Feb 13 17:38:12 +0000 2015",
+    "truncated": false,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 170
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 300
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 500
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "566227659857080321",
+          "source_user_id_str": "210926192",
+          "indices": [
+            124,
+            144
+          ],
+          "source_status_id": 566227659857080321,
+          "id": 566227659365961728,
+          "url": "http://t.co/j0Mh21RbpZ",
+          "media_url_https": "https://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+          "id_str": "566227659365961728",
+          "expanded_url": "http://twitter.com/RepCuellar/status/566227659857080321/photo/1",
+          "media_url": "http://pbs.twimg.com/media/B9ulDmKCUAAL1lP.jpg",
+          "source_user_id": 210926192,
+          "display_url": "pic.twitter.com/j0Mh21RbpZ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "We\u2019re down to fifteen days &amp; 4 legislative days\u2014@SpeakerBoehner : bring us a clean @DHSgov approps bill. #DontShutDownOurSecurity",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "566288130035441664",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            52,
+            67
+          ]
+        },
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            87,
+            94
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            109,
+            133
+          ],
+          "text": "DontShutDownOurSecurity"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 566288130035441664,
+    "created_at": "Fri Feb 13 17:29:45 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Today I spoke on the House Floor urging @SpeakerBoehner to bring us a clean bill. Watch here. http://t.co/ndaimmxSFH",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 2,
+    "coordinates": null,
+    "id_str": "566022792421064704",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "7713202",
+          "name": "Speaker John Boehner",
+          "screen_name": "SpeakerBoehner",
+          "id": 7713202,
+          "indices": [
+            40,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://1.usa.gov/1KPSsX9",
+          "indices": [
+            94,
+            116
+          ],
+          "url": "http://t.co/ndaimmxSFH",
+          "display_url": "1.usa.gov/1KPSsX9"
+        }
+      ],
+      "hashtags": []
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 566022792421064704,
+    "created_at": "Thu Feb 12 23:55:24 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Especially with increased threats around the world, we cannot afford to put our national security at risk. #DontShutDownOurSecurity #16days",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565985521261092864",
+    "lang": "en",
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            131
+          ],
+          "text": "DontShutDownOurSecurity"
+        },
+        {
+          "indices": [
+            132,
+            139
+          ],
+          "text": "16days"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565985521261092864,
+    "created_at": "Thu Feb 12 21:27:18 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Suicide among our nation\u2019s veterans is much too common today. Proud to have supported #ClayHuntSAVAct &amp; glad to see it become law today!",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565941965741883392",
+    "lang": "en",
+    "favorite_count": 2,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            86,
+            101
+          ],
+          "text": "ClayHuntSAVAct"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565941965741883392,
+    "created_at": "Thu Feb 12 18:34:13 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Refusing to fund @DHSgov is unnecessary &amp; reckless. Bring us a clean bill. #DontShutDownOurSecurity #peopleoverpolitics",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 0,
+    "coordinates": null,
+    "id_str": "565876113457831936",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "15647676",
+          "name": "Homeland Security",
+          "screen_name": "DHSgov",
+          "id": 15647676,
+          "indices": [
+            17,
+            24
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            79,
+            103
+          ],
+          "text": "DontShutDownOurSecurity"
+        },
+        {
+          "indices": [
+            104,
+            123
+          ],
+          "text": "peopleoverpolitics"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565876113457831936,
+    "created_at": "Thu Feb 12 14:12:33 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "Safeguarding our national security &amp; paying federal workers is more important than party politics. #DontShutDownOurSecurity #17days",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 1,
+    "coordinates": null,
+    "id_str": "565659027674513408",
+    "lang": "en",
+    "favorite_count": 1,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            103,
+            127
+          ],
+          "text": "DontShutDownOurSecurity"
+        },
+        {
+          "indices": [
+            128,
+            135
+          ],
+          "text": "17days"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565659027674513408,
+    "created_at": "Wed Feb 11 23:49:56 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "I\u2019m proud to serve the people of #CA31 &amp; will work to support Inland Empire families and strengthen the middle class. #HereWeGo #FirstTweet",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 3,
+    "coordinates": null,
+    "id_str": "565197349669330944",
+    "lang": "en",
+    "favorite_count": 3,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [
+            33,
+            38
+          ],
+          "text": "CA31"
+        },
+        {
+          "indices": [
+            122,
+            131
+          ],
+          "text": "HereWeGo"
+        },
+        {
+          "indices": [
+            132,
+            143
+          ],
+          "text": "FirstTweet"
+        }
+      ]
+    },
+    "retweeted": false,
+    "user": {
+      "id_str": "3018670151",
+      "id": 3018670151
+    },
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565197349669330944,
+    "created_at": "Tue Feb 10 17:15:23 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  }
+]

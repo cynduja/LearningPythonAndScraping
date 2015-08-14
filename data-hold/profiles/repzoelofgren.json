@@ -1,0 +1,249 @@
+{
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "name": "Rep. Zoe Lofgren",
+  "profile_use_background_image": true,
+  "contributors_enabled": false,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/510125443094024192/eVbv3QDN_normal.jpeg",
+  "listed_count": 532,
+  "notifications": false,
+  "id": 267938462,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/510125443094024192/eVbv3QDN_normal.jpeg",
+  "location": "",
+  "time_zone": "Eastern Time (US & Canada)",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "id_str": "267938462",
+  "favourites_count": 0,
+  "lang": "en",
+  "profile_text_color": "333333",
+  "utc_offset": -14400,
+  "is_translator": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_background_color": "C0DEED",
+  "verified": true,
+  "geo_enabled": false,
+  "profile_sidebar_border_color": "C0DEED",
+  "is_translation_enabled": false,
+  "friends_count": 60,
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://lofgren.house.gov",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/gxyqi3ANcp",
+          "display_url": "lofgren.house.gov"
+        }
+      ]
+    }
+  },
+  "description": "Member of Congress Proudly Representing CA's 19th Congressional District in Silicon Valley's cities of San Jose, Morgan Hill & Gilroy",
+  "protected": false,
+  "profile_background_tile": false,
+  "follow_request_sent": false,
+  "following": false,
+  "url": "http://t.co/gxyqi3ANcp",
+  "created_at": "Thu Mar 17 21:06:21 +0000 2011",
+  "profile_location": null,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/267938462/1392215420",
+  "status": {
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "contributors": null,
+    "text": "RT @uspto: We're hiring in CA! Ask ?s &amp; Learn more in a Live Webinar noon (PT) TODAY. http://t.co/qI4NvCjBUC #USPTOJobsCA http://t.co/bdTpe\u2026",
+    "in_reply_to_status_id_str": null,
+    "retweet_count": 16,
+    "coordinates": null,
+    "id_str": "582961281679917056",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "retweeted_status": {
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "contributors": null,
+      "text": "We're hiring in CA! Ask ?s &amp; Learn more in a Live Webinar noon (PT) TODAY. http://t.co/qI4NvCjBUC #USPTOJobsCA http://t.co/bdTpeaCboe",
+      "in_reply_to_status_id_str": null,
+      "retweet_count": 16,
+      "coordinates": null,
+      "id_str": "582920686601113600",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "in_reply_to_user_id_str": null,
+      "place": null,
+      "geo": null,
+      "favorited": false,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [
+          {
+            "expanded_url": "http://bit.ly/USPTO_SVwebinar15",
+            "indices": [
+              79,
+              101
+            ],
+            "url": "http://t.co/qI4NvCjBUC",
+            "display_url": "bit.ly/USPTO_SVwebina\u2026"
+          }
+        ],
+        "media": [
+          {
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "w": 250,
+                "h": 390
+              },
+              "medium": {
+                "resize": "fit",
+                "w": 250,
+                "h": 390
+              },
+              "thumb": {
+                "resize": "crop",
+                "w": 150,
+                "h": 150
+              },
+              "small": {
+                "resize": "fit",
+                "w": 250,
+                "h": 390
+              }
+            },
+            "type": "photo",
+            "source_status_id_str": "580757289495359488",
+            "source_user_id_str": "56464843",
+            "indices": [
+              115,
+              137
+            ],
+            "source_status_id": 580757289495359488,
+            "id": 580757289105129472,
+            "url": "http://t.co/bdTpeaCboe",
+            "media_url_https": "https://pbs.twimg.com/media/CA9DrW3UgAAkzrJ.png",
+            "id_str": "580757289105129472",
+            "expanded_url": "http://twitter.com/USPTOjobs/status/580757289495359488/photo/1",
+            "media_url": "http://pbs.twimg.com/media/CA9DrW3UgAAkzrJ.png",
+            "source_user_id": 56464843,
+            "display_url": "pic.twitter.com/bdTpeaCboe"
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              102,
+              114
+            ],
+            "text": "USPTOJobsCA"
+          }
+        ]
+      },
+      "retweeted": false,
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 582920686601113600,
+      "created_at": "Tue Mar 31 15:01:36 +0000 2015",
+      "truncated": false,
+      "in_reply_to_status_id": null
+    },
+    "favorite_count": 0,
+    "in_reply_to_user_id_str": null,
+    "place": null,
+    "geo": null,
+    "favorited": false,
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "16057477",
+          "name": "USPTO",
+          "screen_name": "uspto",
+          "id": 16057477,
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "http://bit.ly/USPTO_SVwebinar15",
+          "indices": [
+            90,
+            112
+          ],
+          "url": "http://t.co/qI4NvCjBUC",
+          "display_url": "bit.ly/USPTO_SVwebina\u2026"
+        }
+      ],
+      "media": [
+        {
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "w": 250,
+              "h": 390
+            },
+            "medium": {
+              "resize": "fit",
+              "w": 250,
+              "h": 390
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            },
+            "small": {
+              "resize": "fit",
+              "w": 250,
+              "h": 390
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "580757289495359488",
+          "source_user_id_str": "56464843",
+          "indices": [
+            126,
+            144
+          ],
+          "source_status_id": 580757289495359488,
+          "id": 580757289105129472,
+          "url": "http://t.co/bdTpeaCboe",
+          "media_url_https": "https://pbs.twimg.com/media/CA9DrW3UgAAkzrJ.png",
+          "id_str": "580757289105129472",
+          "expanded_url": "http://twitter.com/USPTOjobs/status/580757289495359488/photo/1",
+          "media_url": "http://pbs.twimg.com/media/CA9DrW3UgAAkzrJ.png",
+          "source_user_id": 56464843,
+          "display_url": "pic.twitter.com/bdTpeaCboe"
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            113,
+            125
+          ],
+          "text": "USPTOJobsCA"
+        }
+      ]
+    },
+    "retweeted": false,
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 582961281679917056,
+    "created_at": "Tue Mar 31 17:42:55 +0000 2015",
+    "truncated": false,
+    "in_reply_to_status_id": null
+  },
+  "default_profile_image": false,
+  "screen_name": "RepZoeLofgren",
+  "default_profile": true,
+  "profile_link_color": "0084B4",
+  "statuses_count": 1115,
+  "followers_count": 6231
+}
